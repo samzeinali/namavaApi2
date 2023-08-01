@@ -1,0 +1,1687 @@
+{
+    "slider_home_1" : [
+        {
+            "id" :1,
+            "title" : "جنگ جهانی سوم",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/7e8c5e07-e9df-450c-a23c-288ad51f48c1.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/7bba42f0-62e8-4321-b86b-d86b3fa0e7eb.jpg"
+        },
+        {
+            "id" :2,
+            "title" : "عقرب عاشق",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/8a0698e4-8cd6-4f60-91ca-d2d17c8922ab.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/5ce013dd-2db7-4c77-ade4-47d6f372bccd.jpg"
+        },
+        {
+            "id" :3,
+            "title" : "دوبله نماوا",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/a48c1d4f-1842-4cd3-b225-b3d89b28b122.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/b9a50d91-9a59-4d55-8d48-dae9b8789e49.jpg"
+        },
+        {
+            "id" :4,
+            "title" : "پربازدیدهای نماوا",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/bc975075-5b51-4acd-b3e2-f28e8666b17f.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/4ee76bb5-b69b-4e39-bd8c-ff9ff77c3d97.jpg"
+        },        
+        {
+            "id" :5,
+            "title" : "مگه تموم عمر چند تا بهاره؟",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/e34e017f-7840-4a39-a8cc-41e13c714e46.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/86d26abd-1551-42d7-9bf4-df3bec485214.jpg"
+        },
+        {
+            "id" :6,
+            "title" : "ابلق",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/4658953f-429a-43d3-89b5-bb0c4e921bdb.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/5411da36-6439-4345-8c36-d97ca9a5535e.jpg"
+        },
+        {
+            "id" :7,
+            "title" : "مهمونی ۲",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/3beedff4-3c13-42bf-8e8d-73f00ddc1772.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/680d2278-aedb-40a4-a96f-a0ae99667bfb.jpg"
+        },
+        {
+            "id" :8,
+            "title" : "آکتور",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/6d61fa71-5492-46a2-85b0-1fd787a0ca17.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/3e9cf934-acd6-43d9-9fd5-84a4bcdce9e3.jpg"
+        },
+        {
+            "id" :9,
+            "title" : "سرگیجه",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/a1a266b1-3661-49bd-b8ce-ffd475d5508c.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/5870b459-8d9a-4acf-9e14-061cb5c8b355.jpg"
+        },        {
+            "id" :10,
+            "title" : "اسکار",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/dbb83290-0693-43bc-a2ac-11db704b587e.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/086a422f-ac87-4304-b142-008cfe659d82.jpg"
+        }
+    ],
+    "categories" : [
+        {
+            "id":1,
+            "title":"پردیس نماوا",
+            "category_name":"pardis",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/db888386-7202-4d87-a46f-0074bff2ed21.jpg"
+        },
+        {
+            "id":2,
+            "title":"دوبله نماوا",
+            "category_name":"double",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/72880647-4b0d-4590-85e7-26deb4e0eb63.jpg"
+        },
+        {
+            "id":3,
+            "title":"کودک",
+            "category_name":"koodak",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/af1946b2-6c4c-48cd-a28b-f3ba03e57692.jpg"
+        },
+        {
+            "id":4,
+            "title":"ایرانی",
+            "category_name":"persian",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/692c3c0d-7409-4328-9a3e-faac5bc44ca9.jpg"
+        },
+        {
+            "id":5,
+            "title":"کره ای",
+            "category_name":"korean",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/42bca466-48ef-4d4a-bbda-d628d8e02b9f.jpg"
+        },
+        {
+            "id":6,
+            "title":"هندی",
+            "category_name":"indian",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/1a2a922c-457a-4a25-87f3-767e89f3c25c.jpg"
+        },
+        {
+            "id":7,
+            "title":"ترکی",
+            "category_name":"turkish",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/67819d90-0064-49df-8d10-efc360567bea.jpg"
+        },
+        {
+            "id":8,
+            "title":"برترین ها",
+            "category_name":"best",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/7cd58206-d54a-408c-acf3-fd99833ed5af.jpg"
+        },        
+        {
+            "id":9,
+            "title":"اسکار",
+            "category_name":"oskar",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/b5d3a7a0-e870-46b6-8d72-83e0ed4fbac3.jpg"
+        },
+        {
+            "id":10,
+            "title":"آموزش و سرگرمی",
+            "category_name":"learning",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/dba01a70-d862-4b79-9008-c732f0511baf.jpg"
+        },
+        {
+            "id":11,
+            "title":"انیمه و انیمیشن",
+            "category_name":"anime",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/a52bbf7c-fb49-418a-ae51-44d5007c1635.jpg"
+        },
+        {
+            "id":12,
+            "title":"اکشن",
+            "category_name":"action",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/3b710b97-c687-4ff0-9462-c7ed04b2ed53.jpg"
+        },        
+        {
+            "id":13,
+            "title":"کمدی",
+            "category_name":"comedy",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/02ce6f5e-9f38-4c15-8fe7-95bea415948b.jpg"
+        },
+        {
+            "id":14,
+            "title":"ترسناک",
+            "category_name":"horror",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/6279494b-d8c8-48da-a9c9-43aa5fd9ed84.jpg"
+        },
+        {
+            "id":15,
+            "title":"عاشقانه",
+            "category_name":"romance",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/2f2ef305-b545-4959-915b-01183c8a7ac1.jpg"
+        },
+        {
+            "id":16,
+            "title":"درام",
+            "category_name":"drama",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/474e2e74-2251-45d3-84a3-8c03c9038ef3.jpg"
+        },        
+        {
+            "id":17,
+            "title":"علمی تخیلی",
+            "category_name":"scifi",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/78bc2104-a479-4690-a1cb-ccfea7978979.jpg"
+        },
+        {
+            "id":18,
+            "title":"مستند",
+            "category_name":"documentary",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/8dfc3991-a6ef-41d0-b35b-4eae27cdea71.jpg"
+        },
+        {
+            "id":19,
+            "title":"خانوادگی",
+            "category_name":"family",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/68dbaf05-2129-47f8-8da2-246e4729af69.jpg"
+        },
+        {
+            "id":20,
+            "title":"کلاسیک",
+            "category_name":"classic",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/65f19b6f-17a1-4224-ac9e-ea8be78d5d18.jpg"
+        },        
+        {
+            "id":21,
+            "title":"جنایی",
+            "category_name":"crime",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/d4d46b88-ec84-4c0b-a557-140e46ebd5c7.jpg"
+        },
+        {
+            "id":22,
+            "title":"ماجراجویی",
+            "category_name":"adventure",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/eb8a01f2-0e87-49b6-b01e-09842ad41fa1.jpg"
+        },
+        {
+            "id":23,
+            "title":"فیلم های کوتاه",
+            "category_name":"short",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/9247cbfc-a89f-418b-8cb6-c6f7d778ae40.jpg"
+        },
+        {
+            "id":24,
+            "title":"ریلیتی شو",
+            "category_name":"reality",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/04ddd1e0-2fec-4776-8f74-be657e4dc761.jpg"
+        },
+        {
+            "id":25,
+            "title":"پخش زنده",
+            "category_name":"live",
+            "image:url":"https://static.namava.ir/Content/Upload/Images/80217e9e-f491-4e5a-a8ae-81a03a8e1b4a.jpg"
+        }
+    ],
+    "actors" : [
+        {
+            "id" : 1,
+            "name" : "زکیانو ریوز",
+            "name_en" :"Keanu Reeves",
+            "image_actor_url" : "https://static.namava.ir/Content/Upload/Images/7092ad75-59ff-44d5-ab1c-5b56a4c926fc.jpg",
+            "describiton" :"کیانو ریوز بازیگر صداپیشه تهیه کننده کارگردان و موسیقی دان کانادایی با اصلیت لبنانی متولد دوم سپتامبر سال ۱۹۶۴ در بیروت است.  سبک زندگی و شخصیت کیانو ریوز به عنوان یکی از بازیگران مشهور و محبوب هالیوود می تواند الگویی قابل دسترس و ملموس برای تمامی هنرمندان جهان به شمار آید. سادگی و اخلاق مداری از او چهره ای ساخته که طرفداران وی در فضای مجازی از او با عنوان هدیه‌ خداوند یاد می کنند. کیانو در طول زندگی شخصیش با ناکام ی های متفاوتی روبرو شده است. در ژانویه‌ ۲۰۰۰ تنها فرزند وی به صورت مرده به دنیا آمد و غم و اندوه ناشی از این حادثه به شدت ارتباط کیانو و جنیفر سایم همسرش را تحت تاثیر قرار داد تا جایی که آنها چند هفته بعد تصمیم به جدایی گرفتند. در ادامه در دوم آوریل ۲۰۰۱ جنیفر در اثر سانحه‌ رانندگی جان خود را از دست داد.  او عمدتأ با حرفه بازیگری که از سال ۱۹۸۵ آغاز کرده شناخته می شود و در چند فیلم پرفروش با نام های بیل و تد چهره موسیقی نقطه فروپاشی و سرعت ایفای نقش کرده و با بازی در فیلم علمی تخیلی ماتریکس در سال ۱۹۹۹ به شهرت رسید. او با بازی در این فیلم تحسین منتقدین را برانگیخت. از دیگر آثار او می توان به واکنش زنجیره‌ ای داستان اسباب‌ بازی ۴ جان ویک سیبری انیماتریکس باب اسفنجی: اسفنج فراری کنستانتین مبارز تای چی و جرم هنری اشاره کرد.  نامزدی و دریافت جوایز دریافت جوایز متعددی در سوابق وی به چشم می خورد.",
+            "movies":[
+                {"id":1,"movie_name":"جان ویک ۴","image_movie_url":"https://static.namava.ir/Content/Upload/Images/d0a17637-39a5-412b-b298-d82fdc433819.jpg"},
+                {"id":2,"movie_name":"ماتریکس ۴ : رستاخیزها","image_movie_url":"https://static.namava.ir/Content/Upload/Images/c5377e17-e3ef-415a-93ac-9725b3a215a3.jpg"},
+                {"id":3,"movie_name":"یک دنیا آرامش","image_movie_url":"https://static.namava.ir/Content/Upload/Images/c4b39679-58d9-4931-ab50-b1faefd00134.jpg"},
+                {"id":4,"movie_name":"سیبری","image_movie_url":"https://static.namava.ir/Content/Upload/Images/df6a0d9c-fc50-4df4-95a9-d718983022a3.jpg"},
+                {"id":5,"movie_name":"کنستانتین","image_movie_url":"https://static.namava.ir/Content/Upload/Images/877ad77c-cf53-4aaa-91e6-b603378d50be.jpg"},
+                {"id":6,"movie_name":"وکیل مدافع شیطان","image_movie_url":"https://static.namava.ir/Content/Upload/Images/6644c15a-b59c-41bd-8593-0dc1d69c9207.jpg"},
+                {"id":7,"movie_name":"مبارز تای چی","image_movie_url":"https://static.namava.ir/Content/Upload/Images/07ee26e3-be56-4e72-91e9-b9d972d38876.jpg"}
+            ]
+        },
+        {
+            "id" : 2,
+            "name" : "رایان رینولدز",
+            "name_en" :"Ryan Reynolds",
+            "image_actor_url" : "https://static.namava.ir/Content/Upload/Images/fc385b47-33bb-4207-aa67-6a5a3eeccbe5.jpg",
+            "describiton" :"رایان رینولدز بازیگر صداپیشه تهیه کننده و نویسنده کانادایی متولد ۲۳ اکتبر ۱۹۷۶ در ونکوور است. وی از سال ۱۹۹۱ فعالیت حرفه ای خود را در عرصه بازیگری آغاز نمود. از جمله افتخارات رایان رینولدز م یتوان به کسب یک جایزه ساترن نامزدی دریافت یک جایزه امپایر و دریافت ستاره نمادین شهرت بر روی پیاده‌روی مشاهیر هالیوود اشاره کرد.  رایان رینولدز سابقه حضور در پروژه تولید آثاری همچون پرونده های مجهول خواستگاری مردان ایکس: ولورین خانه امن غارنشینان توربو زن طلایی پوش جنایتکار ددپول حیات غارنشینان ۲ محافظ هیتمن ددپول ۲ محافظ همسر هیتمن پوکمون کارآگاه پیکاچو وضعیت قرمز مرد آزاد و پروژه آدام را در کارنامه هنری خود دارد.",
+            "movies":[
+                {"id":1,"movie_name":"پروژه آدام","image_movie_url":"https://static.namava.ir/Content/Upload/Images/f94636d7-1d46-4c8e-8f52-38400d9f9c04.jpg"},
+                {"id":2,"movie_name":"وضعیت قرمز","image_movie_url":"https://static.namava.ir/Content/Upload/Images/a36e733b-6756-4cb1-8b04-f4af4a4fb7f1.jpg"},
+                {"id":3,"movie_name":"سفر جادویی","image_movie_url":"https://static.namava.ir/Content/Upload/Images/145b45fc-928d-400f-a754-0d570fd1f1f4.jpg"},
+                {"id":4,"movie_name":"مرد آزاد","image_movie_url":"https://static.namava.ir/Content/Upload/Images/56c9d8fe-1bca-4c86-943d-09d059b6ea83.jpg"},
+                {"id":5,"movie_name":"خانه امن","image_movie_url":"https://static.namava.ir/Content/Upload/Images/03e385c9-9f33-4468-871f-78fd19ff4bdb.jpg"},
+                {"id":6,"movie_name":"ددپول","image_movie_url":"https://static.namava.ir/Content/Upload/Images/2718c767-2e62-4186-bc22-f5db8159f936.jpg"},
+                {"id":7,"movie_name":"گرین لانترن","image_movie_url":"https://static.namava.ir/Content/Upload/Images/94075147-22aa-431e-a74e-a2595aee74c4.jpg"},
+                {"id":8,"movie_name":"مردان ایکس","image_movie_url":"https://static.namava.ir/Content/Upload/Images/6f6e38cf-1264-4f28-a9df-b0a0477998c1.jpg"}
+            ]
+        },
+        {
+            "id" : 3,
+            "name" : "لئوناردو دی کاپریو",
+            "name_en" :"Leonardo DiCaprio",
+            "image_actor_url" : "https://static.namava.ir/Content/Upload/Images/433f5ae6-9ec7-4764-8f7f-b368a73db3a4.jpg",
+            "describiton" :"لئوناردو دی کاپریو بازیگر و فیلمساز آمریکایی متولد ۱۱ نوامبر ۱۹۷۴ در ایالت کالیفرنیای آمریکا است. دی کاپریو بازیگری را از نقش آفرینی در سریال تلویزیونی سانتا باربارا و برنامه طنز موقعیت Growing pains در اوایل دهه ۱۹۹۰ میلادی آغاز کرد. اولین فیلم سینمایی وی critters نام دارد. شهرت سینمایی دی کاپریو با بازی در فیلم تایتانیک به اوج خود رسید. شهرتی که خود او نیز اذعان دارد هیچ گاه با ایفای نقش دیگری به دست نخواهد آورد. او بعد از تایتانیک در چند فیلم دیگر نیز ایفای نقش کرد که انتقاد مخاطبان و صاحب نظران سینمایی را برانگیخت ولی این پایان کار او نبود. لئوناردو دی کاپریو دوباره با بازی در فیلم دار و دسته نیویورکی ها توانست به اوج برسد و نامزد جایزه گلدن گلوب شد.",
+            "movies":[
+                {"id":1,"movie_name":"یتیم","image_movie_url":"https://static.namava.ir/Content/Upload/Images/6d04ceaa-5683-4e0f-b3e3-00fbe01e770b.jpg"},
+                {"id":2,"movie_name":"تلقین","image_movie_url":"https://static.namava.ir/Content/Upload/Images/3a5f7bd5-10d4-4edf-a849-d987d7562a2b.jpg"},
+                {"id":3,"movie_name":"تایتانیک","image_movie_url":"https://static.namava.ir/Content/Upload/Images/e8919dd5-f0c7-4630-a146-f5a4560b5e38.jpg"},
+                {"id":4,"movie_name":"جزیره شاتر","image_movie_url":"https://static.namava.ir/Content/Upload/Images/8cb0a63f-e2a8-486b-9c9d-4ad7ad64e6b3.jpg"},
+                {"id":5,"movie_name":"گرگ وال استریت","image_movie_url":"https://static.namava.ir/Content/Upload/Images/3087048f-d013-4d13-aeff-87ff5180c893.jpg"},
+                {"id":6,"movie_name":"روزی روزگاری در هالیود","image_movie_url":"https://static.namava.ir/Content/Upload/Images/009564b2-a11e-4986-aa3d-1adaaa56adbb.jpg"}
+            ]
+        },
+        {
+            "id" : 4,
+            "name" : "اسکارلت جوهانسن",
+            "name_en" :"Scarlett Johansson",
+            "image_actor_url" : "https://static.namava.ir/Content/Upload/Images/30fce5f0-599f-48b9-a65c-1e33b584eec3.jpg",
+            "describiton" :"اسکارلت جوهانسن یک بازیگر آمریکایی است که در ۲۲ نوامبر سال ۱۹۸۴ در نیویورک به دنیا آمده است و از سال ۱۹۹۴ فعالیت خود را آغاز نمود. او در سنین نوجوانی و بین سال های ۱۹۹۴ تا ۲۰۰۱ در فیلم های همچون مانی و لو مربی اسب و دنیای روح بازی کرده اما حرفه بازیگری اسکارلت جوهانسن به عنوان یک بزرگسال از سال ۲۰۰۳ و با بازی در فیلم هایی مانند دختری یا گوشواره مروارید و گمشده در ترجمه شروع شد. اسکارلت جوهانسن تاکنون افتخارات بسیاری از جمله نامزدی دو جایزه اسکار بهترین بازیگر زن پنج جایزه گلدن گلوب و دریافت یک جایزه بفتا را به دست آورده است.",
+            "movies":[
+                {"id":1,"movie_name":"بیوه سیاه","image_movie_url":"https://static.namava.ir/Content/Upload/Images/304f49a6-25eb-4b3b-8c31-4051f2b1388b.jpg"},
+                {"id":2,"movie_name":"مرد آهنی ۲","image_movie_url":"https://static.namava.ir/Content/Upload/Images/b5febfc7-187f-4471-a48e-c7db0ed76e29.jpg"},
+                {"id":3,"movie_name":"انتقام جویان","image_movie_url":"https://static.namava.ir/Content/Upload/Images/8b5ebd86-08bc-4b64-aaf7-bc1b29f095a5.jpg"},
+                {"id":4,"movie_name":"لوسی","image_movie_url":"https://static.namava.ir/Content/Upload/Images/aea67222-4a83-4095-a860-0e2dc4866eb2.jpg"}
+            ]
+        },
+        {
+            "id" : 5,
+            "name" : "برد پیت",
+            "name_en" :"Brad Pitt",
+            "image_actor_url" : "https://static.namava.ir/Content/Upload/Images/a127781f-baf6-4939-a503-ad25b17afd94.jpg",
+            "describiton" :"برد پیت بازیگر و تهیه کننده آمریکایی متولد ۱۸ دسامبر ۱۹۶۳ در اوکلاهاما است که از سال ۱۹۸۷ فعالیت خود را آغاز نمود. او بازیگری را با بازی در فیلم بخش تاریک خورشید آغاز کرد و با بازی در فیلم تلما و لوییز به چهره ای شناخته شده تبدیل شد. وی برنده جوایز بسیاری از جمله جایزه گلدن گلاب بهترین نقش مکمل مرد برای فیلم ۱۲ میمون و جایزه اسکار بهترین فیلم برای ۱۲ سال بردگی شده است. برد پیت و آنجلینا جولی بعد از ۹ سال زندگی مشترک در سال ۲۰۱۴ ازدواج کردند و از سال ۲۰۰۸ کاخی قدیمی به نام میراوال را نیز در جنوب فرانسه خریدند که در نهایت در سال ۲۰۱۴ در همین کاخ ییلاقی مراسم ازدواج خود را برگزار کردند. در سپتامبر ۲۰۱۶ جولی پس از ۲ سال ازدواج به دلیل تفاوت های غیرقابل تطبیق درخواست جدایی از پیت را داد.",
+            "movies":[
+                {"id":1,"movie_name":"خشم","image_movie_url":"https://static.namava.ir/Content/Upload/Images/1c6ed550-c8cc-4f24-bcbb-228ba34deb06.jpg"},
+                {"id":2,"movie_name":"باشگاه مشت زنی","image_movie_url":"https://static.namava.ir/Content/Upload/Images/139d1779-adc3-43c6-9ac7-822673fd3e2a.jpg"},
+                {"id":3,"movie_name":"جنگ جهانی زد","image_movie_url":"https://static.namava.ir/Content/Upload/Images/ad3987ef-f856-4389-9b0c-1cec533b504c.jpg"},
+                {"id":4,"movie_name":"به سوی ستارگان","image_movie_url":"https://static.namava.ir/Content/Upload/Images/7b1498aa-744b-410a-ab1a-ef0353ca4d2f.jpg"},
+                {"id":5,"movie_name":"روزی روزگاری در هالیود","image_movie_url":"https://static.namava.ir/Content/Upload/Images/009564b2-a11e-4986-aa3d-1adaaa56adbb.jpg"}
+            ]
+        },
+        {
+            "id" : 6,
+            "name" : "الیزابت اولسن",
+            "name_en" :"Elizabeth Olsen",
+            "image_actor_url" : "https://static.namava.ir/Content/Upload/Images/64e20701-e536-490c-bdb0-3800899b46f8.jpg",
+            "describiton" :"الیزابت اولسن بازیگر آمریکایی متولد شانزدهم فوریه ۱۹۸۹ در لس آنجلس است. او بازیگری را در سن چهار سالگی و با بازی در تولیدات خواهرانش اشلی اولسن و مری کیت اولسن آغاز کرد. از آثار اولسن می توان به فیلم های انتقامجویان: عصر اولتران گودزیلا خانه ساکت و هنرهای لیبرال اشاره کرد. در کارنامه هنری اولسن افتخارات و جوایز متعددی به چشم می خورد.  وی تا کنون موفق به دریافت جوایز بسیاری شده است که از میان آنها می توان به جوایز بفتا سترن و نیو هالیوود اشاره کرد.",
+            "movies":[
+                {"id":1,"movie_name":"دکتر استرنج در مولتی ورس جنون","image_movie_url":"https://static.namava.ir/Content/Upload/Images/aef78a43-0ee1-4c83-bad9-cbe35c963dc4.jpg"},
+                {"id":2,"movie_name":"گودزیلا","image_movie_url":"https://static.namava.ir/Content/Upload/Images/81acc3d7-b80e-4029-9601-9e980b596cc8.jpg"},
+                {"id":3,"movie_name":"انقام جویان : عصر اولتران","image_movie_url":"https://static.namava.ir/Content/Upload/Images/f21e3742-2e34-4e07-9b7c-d815c7b7139b.jpg"}
+            ]
+        },
+        {
+            "id" : 7,
+            "name" : "بن افلک",
+            "name_en" :"Ben Affleck",
+            "image_actor_url" : "https://static.namava.ir/Content/Upload/Images/2766838f-cce3-4289-9e16-e606a64ce140.jpg",
+            "describiton" :"بن افلک بازیگر آمریکایی متولد ۱۵ اگوست ۱۹۷۲ در برکلی است. او با بازی در فیلم ویل هانتینگ نابغه به شهرت رسید او علاوه بر بازی نویسندگی فیلمنامه این فیلم را همراه با مت دیمون بر عهده داشت که برای آنها جایزه اسکار بهترین فیلمنامه غیراقتباسی را به همراه داشت. افلک در فیلم هایی چون آخرین دوئل دختر گمشده بتمن علیه سوپرمن: طلوع عدالت شهر الکترا جوخه انتحار و آرگو به ایفای نقش پرداخته است. در کارنامه او نقش آفرینی در بیش از پنجاه فیلم به چشم می خورد. او همچنین تاکنون بارها نامزد و برنده جوایز متعددی چون بفتا اسکار گلدن گلوب و امی شده است.",
+            "movies":[
+                {"id":1,"movie_name":"فلش","image_movie_url":"https://static.namava.ir/Content/Upload/Images/6897174c-2431-44a8-b370-3568467e7de8.jpg"},
+                {"id":2,"movie_name":"لیگ عدالت زک اسنایدر","image_movie_url":"https://static.namava.ir/Content/Upload/Images/3e9580e8-ddbc-4d7f-975b-f64839d060c3.jpg"},
+                {"id":3,"movie_name":"بتمن علیه سوپرمن","image_movie_url":"https://static.namava.ir/Content/Upload/Images/d1952a4a-0a7c-4ad3-b710-e39501842bfb.jpg"}
+            ]
+        },
+        {
+            "id" : 8,
+            "name" : "جیمز یوگن کری",
+            "name_en" :"Jim Carrey",
+            "image_actor_url" : "https://static.namava.ir/Content/Upload/Images/aee049e1-aebd-4b3b-912a-f49300f128f8.jpg",
+            "describiton" :"جیمز یوگن کری ملقب به جیم کری بازیگر کمدین تهیه کننده صداپیشه و فیلمنامه نویس کانادایی متولد ۱۷ ژانویه ۱۹۶۲ در انتاریو است که از سال ۱۹۸۸ فعالیت خود را آغاز نمود.  او در سال ۱۹۹۰ با حضور در برنامه های طنز تلویزیونی در میان مردم شناخته شد. جیم کری نخستین بار در سال ۱۹۹۴ با بازی در فیلم  ایس ونچورا: کارآگاه حیوانات در جلوی دوربین سینمایی قرار گرفت و به یک چهره محبوب تبدیل گردید. در سوابق هنری جیم کری فعالیت در آثاری همچون سونیک خارپشت ۲ وال چگونه گرینچ کریسمس را دزدید احمق و احمق تر مجستیک هورتون صدایی م یشنود سرود کریسمس سونیک خارپشت با دیک و جین در بازی زندگی شوخی پسر کابلی و ایس ونچورا: کارآگاه حیوانات به چشم می خورد.  جیم کری با بازی در فیلم مردی در ماه در سال ۱۹۹۹ جایزه گلدن گلوب بهترین بازیگر مرد را از آن خود کرد. از دیگر افتخارات جیم کری می توان به دریافت یک جایزه انجمن منتقدان فیلم بوستون دو جایزه گلدن گلوب و نامزدی دریافت یک جایزه امی ساعات پربیننده و یک جایزه سترن اشاره کرد.",
+            "movies":[
+                {"id":1,"movie_name":"احمق و احمق تر ۲","image_movie_url":"https://static.namava.ir/Content/Upload/Images/2b16e686-8337-40c6-b4df-43d59a4d1799.jpg"},
+                {"id":2,"movie_name":"ماسک","image_movie_url":"https://static.namava.ir/Content/Upload/Images/bebca560-3f97-4ccd-89e8-8cc1624c77ac.jpg"},
+                {"id":3,"movie_name":"سونیک خارپشت ۲","image_movie_url":"https://static.namava.ir/Content/Upload/Images/f68c47c1-9885-4174-b5d6-5d86cc248350.jpg"}
+            ]
+        },
+        {
+            "id" : 9,
+            "name" : "تام هاردی",
+            "name_en" :"Tom Hardy",
+            "image_actor_url" : "https://static.namava.ir/Content/Upload/Images/5f0680a7-b52f-48f8-89a1-7f64092cdfcb.jpg",
+            "describiton" :"تام هاردی یک بازیگر فیلمنامه نویس و فیلمساز متولد پانزدهم سپتامبر سال ۱۹۷۷ در لندن است که از سال ۱۹۹۸ فعالیت خود را آغاز نمود و با بازی در فیلم جنگی سقوط شاهین سیاه به شهرت رسید.  از سایر فیلم های مطرح او می توان به پیشتازان فضا: نمسیس فیلم جنایی راک اند رولا درام بیوگرافی برانسون و درام ورزشی مبارز اشاره کرد. او همچنین سابقه در سریال هایی همچون جوخه برادران شنل خشم الیور تویست جنگ غیرقانونی و کلدیتز را در کارنامه خود دارد.   او موفق به نامزدی دریافت جوایز معتبر متعددی شده که می توان یک بار جایزه بفتا برای بهترین بازیگر تازه کار جایزه بازیگر مرد بریتانیایی ایرلندی سال انجمن منتقدان فیلم لندن و همچنین جایزه انجمن منتقدین لس آنجلس برای ایفای نقش در فیلم لاک را نام برد.",
+            "movies":[
+                {"id":1,"movie_name":"ونوم","image_movie_url":"https://static.namava.ir/Content/Upload/Images/79338a86-b28e-4913-ada7-47f3ab53e8b8.jpg"},
+                {"id":2,"movie_name":"مکس دیوانه","image_movie_url":"https://static.namava.ir/Content/Upload/Images/318254be-b82f-409f-b810-aa55d0717c3d.jpg"},
+                {"id":3,"movie_name":"کاپون","image_movie_url":"https://static.namava.ir/Content/Upload/Images/95a179a7-9ce8-41b1-b52d-62906356770e.jpg"},
+                {"id":4,"movie_name":"افسانه","image_movie_url":"https://static.namava.ir/Content/Upload/Images/e415124b-4e11-4fe7-ae75-4cc37ca8c879.jpg"},
+                {"id":5,"movie_name":"لاک","image_movie_url":"https://static.namava.ir/Content/Upload/Images/c9a88bc3-55ee-42e7-8d7f-e68adf44d9b3.jpg"},
+                {"id":6,"movie_name":"از گور برخواسته","image_movie_url":"https://static.namava.ir/Content/Upload/Images/5d856e02-8951-4cb5-9f2a-47ca35b5d245.jpg"},
+                {"id":7,"movie_name":"شوالیه تاریکی بر می خیزد","image_movie_url":"https://static.namava.ir/Content/Upload/Images/7a5258d8-6946-4a00-97ae-cfd56964fe64.jpg"},
+                {"id":8,"movie_name":"دانکرک","image_movie_url":"https://static.namava.ir/Content/Upload/Images/dbd8ed06-f023-4751-a198-10d1d3170951.jpg"},
+                {"id":9,"movie_name":"تابو","image_movie_url":"https://static.namava.ir/Content/Upload/Images/410d0b23-d997-4d6e-9392-898075ef4df1.jpg"},
+                {"id":10,"movie_name":"مبارز","image_movie_url":"https://static.namava.ir/Content/Upload/Images/3c124b8e-5436-4488-8e70-cd79e57b0efb.jpg"}
+            ]
+        },
+        {
+            "id" : 10,
+            "name" : "جانی دپ",
+            "name_en" :"Johnny Depp",
+            "image_actor_url" : "https://static.namava.ir/Content/Upload/Images/f89781ea-55c3-46ab-a952-d47294ac7462.png",
+            "describiton" :"جانی دپ بازیگر تهیه کننده کارگردان نویسنده و نوازنده آمریکایی متولد ۹ ژوئن ۱۹۶۳ در ایالت کنتاکی است. وی از سال ۱۹۸۴ فعالیت حرفه ای خود را در عرصه بازیگری آغاز نمود. از جمله افتخارات جانی دپ م یتوان به نامزدی دریافت سه جایزه اسکار و سه جایزه بفتا و کسب یک جایزه گلدن گلوب اشاره کرد.  جانی دپ از دهه ۸۰ میلادی با درخشش در سریال تلویزیونی خیابان جامپ شماره ۲۱ در نوجوانی به شهرت رسید. از آن زمان تاکنون وی نقش های خاطره انگیز و چالش برانگیزی را در فیلهای مختلف برعهده گرفته است که از جمله آنها بازی در فیلم جوخه به کارگردانی الیور استون با موضوع جنگ ویتنام است. جانی دپ پس از آن در فیلم فانتزی تاریک و عاشقانه ادوارد دست قیچی در نقش اصلی ظاهر شد.",
+            "movies":[
+                {"id":1,"movie_name":"دزدان دریایی کارائیب","image_movie_url":"https://static.namava.ir/Content/Upload/Images/df7a8a4d-8009-4e77-85fa-6768c95a22a7.jpg"},
+                {"id":2,"movie_name":"جوخه","image_movie_url":"https://static.namava.ir/Content/Upload/Images/de7d9b31-e3f4-4aa9-9a46-c60dd1b030df.jpg"},
+                {"id":3,"movie_name":"جانی در برابر امبر","image_movie_url":"https://static.namava.ir/Content/Upload/Images/05258554-c265-4c27-a5cf-b6df03337128.jpg"}
+            ]
+        }
+    ],
+    "movies" : [
+        {
+            "id":1111,
+            "category" : 12,
+            "title" : "استخراج ۲",
+            "title_en":"Extraction 2",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/1c71a264-4c7a-4c64-95f1-2ab65333ef20.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/1706bc8e-fbce-479d-a218-2211608cfab0.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/801066f3-714c-4db2-94e3-d97a9d0e4d82.jpg",
+            "pre_movie_url":"https://static.namava.ir/Content/Upload/Images/816d3a45-e9d6-4712-8104-beedc2345f44.mp4",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/ff0a3ac6-615b-4683-ba2e-ad0ecc9c817f.png",
+            "trailer" : "https://static.namava.ir/Content/Upload/Images/816d3a45-e9d6-4712-8104-beedc2345f44.mp4",
+            "like":"۸۶",
+            "imdb" : 7.1,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۵",
+            "age_color":"orange",
+            "is_dubbing": true,
+            "is_Sub" :true,
+            "director":"Sam Hargrave",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی انگلیسی",
+            "writer": {"writer_name" :"جو روسو" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/2f4cb6df-cbb3-4769-b559-50445b25b16f.jpg"},
+            "producer":{"producer_name" : "پاتریک نیوال", "image_producer_url" : "https://static.namava.ir/Content/Upload/Images/3b589720-4f34-46bd-abd4-91a9a9826ae7.jpg" },
+            "Actors":[
+                {"actor_name":"کریس همسورث","actor_image_url":"https://static.namava.ir/Content/Upload/Images/dc6f9f1b-ec11-4bb7-84b0-89a101a9942b.jpg"},
+                {"actor_name":"گلشیفته فراهانی","actor_image_url":"https://static.namava.ir/Content/Upload/Images/27c873ef-a8bd-43f0-8859-1472d8792f74.jpg"},
+                {"actor_name":"ادریس البا","actor_image_url":"https://static.namava.ir/Content/Upload/Images/7df716c9-1c48-4ea8-9e58-c86cdcc53146.jpg"}
+            ],
+            "movie_time":"۱۲۴",
+            "description":"پس از اینکه تایلر از ماموریت پرخطر و مرگبار قبلی خود جان سالم به در می برد به همراه اعضای تیمش عملیات ویژه جدیدی را برای نجات خانواده ای که به اسارت گرفته شده اند آغاز می کند و...",
+            "story":"فیلم استخراج ۲ فیلمی اکشن و مهیج محصول سال ۲۰۲۳ کشور آمریکا به کارگردانی سم هارگریو است. نویسندگی فیلم استخراج ۲ توسط جو روسو انجام شده است. بازیگرانی چون کریس همسورث گلشیفته فراهانی ادریس البا اولگا کوریلنکو دنیل برنهارت تاکو تباتادزه آدام بسا و تیناتین دالاکیشویلی در فیلم استخراج ۲ به ایفای نقش پرداخته اند.فیلم استخراج ۲ بر اساس رمان شهر به قلم اند پارکس جو روسو آنتونی روسو فرناندو لئون گونزالز و اریک اسکیلمن ساخته شده است. فیلم استخراج ۲ دنباله فیلم استخراج ۲۰۲۰ محسوب می شود.",
+            "other_categories":"اکشن, مهیج, دوبله نماوا, فیلم خارجی",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/94a8263c-9494-4785-9fe4-c88d80938709.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/78210f9d-61f4-42c9-bf61-f7e988c30d02.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/336ad24a-fbd0-4524-9dff-8c25f7403913.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/34a77642-8f45-427a-9915-329769ce248b.jpg",
+                "other_image_url_5" :"https://static.namava.ir/Content/Upload/Images/8a5800bf-2ca9-4a1d-b358-7ea55630b2b0.jpg"
+            },
+            "comment_1":{
+                "user":"رضا عابدی",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام زینلی",
+                "date":" سه شنبه ۲۰ تیر ۱۴۰۲",
+                "comment":"فیلم عااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":1112,
+            "category" : 12,
+            "title" : "تبدیل شوندگان: ظهور جانوران",
+            "title_en":"Transformers: Rise of the Beasts",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/382f02e2-8ad3-4009-8e2b-f46eef04ebf7.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/4270fa01-6ae3-4201-8640-e6505140289b.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/e2ea005b-3a63-4b03-ad4e-5cf7d9a0b48f.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/ae825b26-e582-4e2a-b0fb-ce4d3b986446.png",
+            "trailer" : "https://static.namava.ir/Content/Upload/Images/71f847f3-3183-4ee2-9b1a-285737dbbf43.mp4",
+            "like":"۹۳",
+            "imdb" : 6.5,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۲",
+            "age_color":"yellow",
+            "is_dubbing" :true,
+            "is_Sub" : true,
+            "director":"Steven Caple Jr.",
+            "lang_duble" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی انگلیسی",
+            "writer":{"writer_name" :"Joby Harold" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/5179625e-85db-455a-906b-24fee1af1946.jpg"},
+            "producer":{"producer_name" : "پاتریک نیوال", "image_producer_url" : "https://static.namava.ir/Content/Upload/Images/3b589720-4f34-46bd-abd4-91a9a9826ae7.jpg" },
+            "Actors":[
+                {"actor_name":"پیتر دینکلج","actor_image_url":"https://static.namava.ir/Content/Upload/Images/8d6a918c-fc61-4c8c-b22a-efb1322aa337.jpg"},
+                {"actor_name":"آنتونی راموس","actor_image_url":"https://static.namava.ir/Content/Upload/Images/8bbf6bb1-97fc-4d60-a94e-3cbc32d4596a.jpg"},
+                {"actor_name":"پیت دیویدسون","actor_image_url":"https://static.namava.ir/Content/Upload/Images/988ba7ab-47e1-4a16-af08-960e64824625.jpg"}
+            ],
+            "movie_time":"۱۲۵",
+            "description":"یک متخصص نظامی به همراه یک باستان شناس درگیر نبردی میان هیولاهای خطرناک و ربات های غول پیکر می شوند و...",
+            "story":"فیلم تبدیل شوندگان: ظهور جانوران فیلمی اکشن ماجراجویی و علمی تخیلی محصول سال ۲۰۲۳ کشور آمریکا به کارگردانی استیون کیپل جونیور است. نویسندگی فیلم تبدیل شوندگان: ظهور جانوران توسط جوبی هرولد دارنل متایر و جاش پیترز انجام شده است. بازیگرانی چون پیتر دینکلیج آنتونی راموس پیت دیویدسون میشل یئو ران پرلمن جان دیماجیو پیتر کالن و کریستو فرناندز در فیلم تبدیل شوندگان: ظهور جانوران به ایفای نقش پرداخته اند.فیلم تبدیل شوندگان: ظهور جانوران بر اساس مجموعه اسباب بازی های تبدیل شوندگان تولید کمپانی هاسبرو ساخته شده است. فیلم تبدیل شوندگان: ظهور جانوران هفتمین فیلم از مجموعه فیلم های تبدیل شوندگان محسوب می شود و دنباله فیلم بامبلبی ۲۰۱۸ به حساب می آید. فیلم تبدیل شوندگان: ظهور جانوران پیش درآمدی از فیلم تبدیل شوندگان ۲۰۰۷ و اسپین آف سریال جنگ جانوران: تبدیل شوندگان ۱۹۹۶ به شمار می رود.",
+            "other_categories":"اکشن و علمی تخیلی و ماجراجویی و فیلم خارجی",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/39eed594-3773-4eee-a57b-fd9786e7c094.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/62b4e031-5e19-4df6-8e93-55e99ed7c552.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/3dc70e97-f6ef-45c5-84e8-cdbc60697587.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/2c59c845-a99f-4ad1-9297-457ef5af2972.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":1113,
+            "category" : 12,
+            "title" : "شزم: خشم خدایان",
+            "title_en":"Shazam! Fury of the Gods",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/3528fb27-ff5f-4b07-8e76-c2b7cde7738e.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/74d33e7f-417e-44a6-942e-9443ddcfe8bb.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/d356d474-0214-4f13-9a4e-8aeaaabf4c47.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/0beb57b4-5823-43ea-a716-445bfc2a1908.png",
+            "trailer" : null,
+            "like":"۹۱",
+            "imdb" : 7.2,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۲",
+            "age_color":"yellow",
+            "is_dubbing" :true,
+            "is_Sub" : true,
+            "director":"David F. Sandberg",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی انگلیسی",
+            "writer":{"writer_name" :"Joby Harold" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/5179625e-85db-455a-906b-24fee1af1946.jpg"},
+            "producer":{"producer_name" : "پاتریک نیوال", "image_producer_url" : "https://static.namava.ir/Content/Upload/Images/3b589720-4f34-46bd-abd4-91a9a9826ae7.jpg"},
+            "Actors":[
+                {"actor_name":"زکری لیوای","actor_image_url":"https://static.namava.ir/Content/Upload/Images/bf3fc925-7688-4425-8e91-20ce2ffb9c3d.jpg"},
+                {"actor_name":"Helen Mirren","actor_image_url":"https://static.namava.ir/Content/Upload/Images/4917adc2-6049-4e28-b823-f7f88ada506c.jpg"},
+                {"actor_name":"اشر آنجل","actor_image_url":"https://static.namava.ir/Content/Upload/Images/ceea0edf-70d3-4564-b562-c5202a3ef784.jpg"}
+            ],
+            "movie_time":"",
+            "description":"پس از ورود دختران اطلس به دنیای انسان ها هرج و مرج بسیاری رخ می دهد و جان همه مردم دنیا به خطر می افتد. اکنون شزم باید به کمک خواهر و برادرانش با آنها مبارزه کنند و جان همه را نجات دهند و...",
+            "story":"فیلم شزم: خشم خدایان فیلمی اکشن ماجراجویی کمدی جنایی فانتزی و مهیج محصول سال ۲۰۲۳ کشور آمریکا به کارگردانی دیوید اف. سندبرگ است. نویسندگی فیلم شزم: خشم خدایان توسط هنری گیدن کریس مورگان و بیل پارکر انجام شده است. بازیگرانی چون زکری لیوای هلن میرن لوسی لیو اشر آنجل جک دیلن گریزر ریچل زگلر گل گدوت و مارک استرانگ در فیلم شزم: خشم خدایان به ایفای نقش پرداخته اند.",
+            "other_categories":"",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/3bec60b8-a566-43c9-bd3f-4ff87b3022c4.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/f31482e9-e9e7-4aea-8399-21a89b556c29.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/4a6d38c4-6ced-47cf-8947-4dd9350d05fb.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/7c9e489e-7d03-4b2e-ad76-6e883c0e591f.jpg"
+            },
+            "comment_1":{
+                "user":"مهرداد پاشایی",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"مهدی تمیمی",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":1114,
+            "category" : 12,
+            "title" : "بهولا",
+            "title_en":"Bholaa",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/fcebf4bc-7f00-48ba-a903-eec67fc7259d.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/e5e2c40b-889e-4967-bc01-6245c35024de.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/32ace2db-0e5a-4768-b2c8-e98a1f5477c2.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/06142140-baf9-4534-a46c-90aced726069.png",
+            "trailer" : null,
+            "like":"۸۰",
+            "imdb" : 7.1,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۵",
+            "age_color":"orange",
+            "is_dubbing":true,
+            "is_Sub" : true,
+            "director":"اجی دیوگن",
+            "lang_double" : "فارسی",
+            "lang_subtitle": "فارسی انگلیسی",
+            "writer":{"writer_name" :"Sandeep Kewlani" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/79d6b1b1-b9e4-4ad9-8918-7fdffa846f22.jpg"},
+            "producer": {"producer_name":"اجی دیوگن","producer_image_url":"https://static.namava.ir/Content/Upload/Images/51b3b5d9-761c-4d48-bcaf-f4c8fee2ce96.jpg"},
+            "Actors":[
+                {"actor_name":"اجی دیوگن","actor_image_url":"https://static.namava.ir/Content/Upload/Images/51b3b5d9-761c-4d48-bcaf-f4c8fee2ce96.jpg"},
+                {"actor_name":"Tabu","actor_image_url":"https://static.namava.ir/Content/Upload/Images/ab08e558-c1ab-4efe-86eb-2ae3f9cc330c.jpg"},
+                {"actor_name":"آبهیشک باچ چان","actor_image_url":"https://static.namava.ir/Content/Upload/Images/cc83e588-23df-4417-84aa-77d84139b990.jpg"}
+            ],
+            "movie_time":"۱۴۰",
+            "description":"یک مجرم سابق پس از ده سال حبس از زندان آزاد می شود تا به دیدن دخترش برود اما پس از اینکه جنایتکاران خطرناکی بر سر راه او قرار می گیرند او مجبور می شود تا...",
+            "story":"فیلم بهولا فیلمی اکشن ماجراجویی جنایی درام و مهیج محصول سال ۲۰۲۳ کشور هند به کارگردانی اجی دیوگن است. نویسندگی فیلم بهولا توسط لوکیش کاناگاراج آنکوش سینگ و ساندیپ کولانی انجام شده است. بازیگرانی چون اجی دیوگن تابو آبیشک باچان امالا پال دیپاک دوبریال رائی لاکشمی سانجی میشرا و وانیت کومار در فیلم بهولا به ایفای نقش پرداخته اند.فیلم بهولا بازسازی فیلم زندانی ۲۰۱۹ به کارگردانی لوکیش کاناگاراج محسوب می شود.",
+            "other_categories":"درام - اکشن - ماجراجویی - جنایی - مهیج - دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/cff67303-4ac9-4ce0-b798-4c0e8811febf.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/5cc23844-1c82-4d8d-b937-9f8bda42bd0e.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/324b6c9f-f208-4f72-800e-d9e042079bde.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/001c2deb-1aa3-4a4e-9eb8-66ab7a87e1a3.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":1115,
+            "category" : 12,
+            "title" : "شمشیر ۴۷ رونین",
+            "title_en":"Blade of the 47 Ronin",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/ab54c7ee-6e47-4e21-be93-280379c39891.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/d6819c0c-07a1-433c-85a8-c9ddb5362f18.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/20c8cb2c-66bf-485c-8e4b-baa829e57b2c.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/ae250d2d-e101-4917-8684-18730545ba08.png",
+            "trailer" : null,
+            "like":"۷۳",
+            "imdb" : 4.6,
+            "year": "۲۰۲۲",
+            "year_number":2022,
+            "age" : "+۱۵",
+            "age_color":"orange",
+            "is_dubbing":true,
+            "is_Sub" : true,
+            "director":"Ron Yuan",
+            "lang_double" : "فارسی",
+            "lang_subtitle": "فارسی",
+            "writer":{"writer_name" :"A.J. Mendez" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/1bd676d7-be76-496d-935e-a4d5292be47c.jpg"},
+            "producer":{"producer_name":"Tim Kwok","producer_image_url":"https://static.namava.ir/Content/Upload/Images/eaa1c05d-658d-4757-95b0-ff8f00f27468.jpg"},
+            "Actors":[
+                {"actor_name":"آنا آکانا","actor_image_url":"https://static.namava.ir/Content/Upload/Images/55b45f04-b5e0-4241-985b-5e1fce7e3cc2.jpg"},
+                {"actor_name":"Mark Dacascos","actor_image_url":"https://static.namava.ir/Content/Upload/Images/9c380f92-3e4d-4a3e-bb89-2ec8ea3effdd.jpg"},
+                {"actor_name":"Teresa Ting","actor_image_url":"https://static.namava.ir/Content/Upload/Images/9c6dcbe7-00ee-40d1-b444-73048ab4ba9e.jpg"}
+            ],
+            "movie_time":"۱۰۳",
+            "description":"سیصد سال پس از ماجرای ۴۷ رونین جنگجویان باستانی ژاپنی رونین در تلاش هستند به طور مخفیانه به زندگی خود ادامه دهند و...",
+            "story":"فیلم شمشیر ۴۷ رونین فیلمی اکشن درام و فانتزی محصول سال ۲۰۲۲ کشور آمریکا به کارگردانی ران یوان است. نویسندگی فیلم شمشیر ۴۷ رونین توسط ایمی گارسیا ای.جی. مندز و جان سوتنام انجام شده است. بازیگرانی چون آنا آکانا مارک داکاسیوس ترسا تینگ مایک مو داستین نگوین کریس پانگ دن ساوتورث و نینو فوروهاتا در فیلم شمشیر ۴۷ رونین به ایفای نقش پرداخته اند.",
+            "other_categories":"درام-اکشن-فانتری-دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/e8e554b4-58f8-4530-8af3-b664934cae79.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/c2c426f3-a281-4de3-928d-699c53823ac7.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/69721da9-0e7a-4bad-9629-b84d1cdc904b.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/ac8096a3-5497-4fc5-92ee-1644f6c24220.jpg"
+            },
+            "comment_1":{
+                "user":"سام",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"تارا حصیری",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },{
+            "id":2221,
+            "category": 13,
+            "title" : "قانون شکنان",
+            "title_en":"The Out-Laws",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/c507d1da-896e-446c-9e88-803d1f555053.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/3e4d3cb0-829c-4b8d-a9dc-e48eb390bd17.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/b78fb5d6-dc6a-4410-a1de-e3990591f924.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/e22fa77f-3918-4ade-92fc-e4fbf8f312b6.png",
+            "trailer" : null,
+            "like":"۸۱",
+            "imdb" : 5.4,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۵",
+            "age_color":"orange",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Tyler Spindel",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی انگلیسی",
+            "writer":{"writer_name" :"Ben Zazove" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/4e854cd0-9d4f-490a-bef6-0392c197933a.jpg"},
+            "producer":{"producer_name" :"Allen Covert" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/54943e6b-eee5-4841-be80-20236e710543.jpg"},
+            "Actors":[
+                {"actor_name":"آدام دیواین","actor_image_url":"https://static.namava.ir/Content/Upload/Images/56a00f02-3285-43dc-b693-10cbddbc3679.jpg"},
+                {"actor_name":"نینا دوبرو","actor_image_url":"https://static.namava.ir/Content/Upload/Images/08a68af4-cbdf-45d1-865a-901b901a2f41.jpg"},
+                {"actor_name":"پیرس برازنان","actor_image_url":"https://static.namava.ir/Content/Upload/Images/bc3d4189-c08d-44e2-9fbd-6af50ead5afd.jpg"}
+            ],
+            "movie_time":"",
+            "description":"یک مدیر بانک قرار است با زنی که علاقه بسیاری به او دارد ازدواج کند و باید برای آن برنامه ریزی کند اما زمانی که بانک مورد سرقت دو مجرم قرار می گیرد متوجه موضوعی مشکوک می شود که...",
+            "story":"فیلم قانون شکنان فیلمی اکشن کمدی جنایی و عاشقانه محصول سال ۲۰۲۳ کشور آمریکا به کارگردانی تایلر اسپیندل است. نویسندگی فیلم قانون شکنان توسط ایوان ترنر و بن زازوو انجام شده است. بازیگرانی چون آدام دیواین نینا دوبرو پیرس برازنان الن بارکین مایکل روکر پورنا جاگاناتان لورن لپکس و ریچارد کایند در فیلم قانون شکنان به ایفای نقش پرداخته اند.",
+            "other_categories":"اکشن, مهیج, دوبله نماوا, فیلم خارجی - کمدی",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/637c746f-e0a4-44ff-97e6-dd72bf69132f.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=150",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/4ed02100-3fad-4787-add4-7151a2ff8bb6.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=150",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/e86c1f9b-0aab-4bd4-aeab-13a115f6c130.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=150",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/59f7ddbe-5c06-4fb8-abdf-8e51c3346e46.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=150"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":2222,
+            "category": 13,
+            "title" : "بتاز",
+            "title_en":"Ride On",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/5ae224f2-11f1-4d8f-af7a-5f36640f0caf.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/9eff75b8-1c66-4bbc-a791-abb89d0f4a6f.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/70fe8fea-4210-40aa-8451-abc9a7f23daf.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/d9851f87-a7b9-4819-b4af-71cca25b4acc.png",
+            "trailer" : null,
+            "like":"۹۱",
+            "imdb" : 6.3,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۲",
+            "age_color":"yellow",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Larry Yang",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی",
+            "writer":{"writer_name" :"Li Jie" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/53881bbc-b3a2-4f58-99a3-f61cc79e07f8.jpg"},
+            "producer":{"producer_name" :"Larry Yang" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/56570ae7-0ea4-4fae-8c29-d6fef5a911f4.jpg"},
+            "Actors":[
+                {"actor_name":"جکی چان","actor_image_url":"https://static.namava.ir/Content/Upload/Images/f5b849c9-f8d1-44fc-96e9-9d79f2792653.jpg"},
+                {"actor_name":"هائوکان لیو","actor_image_url":"https://static.namava.ir/Content/Upload/Images/ce89d128-5260-46de-87a8-d113d3edc0d9.jpg"},
+                {"actor_name":"یوتینگ لنگ","actor_image_url":"https://static.namava.ir/Content/Upload/Images/39624446-23c8-4e48-b321-326ae7c58427.jpg"}
+            ],
+            "movie_time":"۱۲۵",
+            "description":"زمانی که یک بدلکار و اسبش به طور شگفت انگیزی به شخصیت های مجازی تبدیل می شوند و به شهرت می رسند زندگی آنها برای همیشه تغییر پیدا می کند و...",
+            "story":"فیلم بتاز فیلمی اکشن کمدی و درام محصول سال ۲۰۲۳ کشور چین به نویسندگی و کارگردانی لری یانگ است. بازیگرانی چون جکی چان هائوکان لیو کوین گو یوتینگ لنگ اندی آن هنگ سو جینگ وو و شنیانگ شیائو در فیلم بتاز به ایفای نقش پرداخته اند.",
+            "other_categories":"اکشن, مهیج, دوبله نماوا, فیلم خارجی - کمدی",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/a60524ff-9a1c-4c20-8e33-60e27e7790ca.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/ae21fc08-9d34-402c-9f51-8b0634486305.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/e43fbb32-a1a5-4e46-a5ae-33261c43e5dd.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/2ff43b1a-6673-4b3f-bbf1-e5914cdcf866.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":2223,
+            "category": 13,
+            "title" : "ماشین",
+            "title_en":"The Machine",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/8b25b133-f1b1-46d6-9a2b-8e189c651a8f.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/e5520038-1734-4ade-8c3f-66898d43b854.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/785fad73-c796-4abf-80f5-0d878cd1e8ce.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/7f4b98f2-6683-4aed-88fc-7364a81f29f0.png",
+            "trailer" : null,
+            "like":"۷۹",
+            "imdb" : 6.1,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۵",
+            "age_color":"orange",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Peter Atencio",
+            "lang_double" : "فارسی",
+            "lang_subtitle": "فارسی انگلیسی",
+            "writer":{"writer_name" :"Scotty Landes" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/2c1480f7-aeee-439f-a931-87f33dfc2ffd.jpg"},
+            "producer":{"producer_name" :"Cale Boyter" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/a9f4487f-d4e8-481d-a1dd-11ee811d7a2a.jpg"},
+            "Actors":[
+                {"actor_name":"Mark Hamill","actor_image_url":"https://static.namava.ir/Content/Upload/Images/fb4f2e2b-3bdc-4e7a-b234-13978fcebee1.jpg"},
+                {"actor_name":"Jimmy Tatro","actor_image_url":"https://static.namava.ir/Content/Upload/Images/7ac88a75-30ab-4384-af94-8437b677a0b4.jpg"},
+                {"actor_name":"Martyn Ford","actor_image_url":"https://static.namava.ir/Content/Upload/Images/f1c3ed91-c3ea-448a-8609-555e23ba9732.jpg"}
+            ],
+            "movie_time":"۱۲۰",
+            "description":"برت در جوانی اش زمانی که برای یک ترم دانشگاه به روسیه رفته بود مرتکب اشتباهی شد که اکنون در زمان حال گریبان او را گرفته است. او و پدرش توسط گروهی از خلافکاران روسی دزدیده می شوند و...",
+            "story":"فیلم ماشین فیلمی اکشن و کمدی محصول سال ۲۰۲۳ کشور آمریکا به کارگردانی پیتر آتنسیو است. نویسندگی فیلم ماشین بر عهده برت کریشنر کوین بیگل و اسکاتی لندز بوده است. بازیگرانی چون برت کریشنر مارک همیل جیمی تاترو ایوا بابیک رابرت مازر استفانی کورتزوبا مارتین فورد و جس گابور در فیلم ماشین به ایفای نقش م یپردازند. ",
+            "other_categories":"اکشن, مهیج, دوبله نماوا, فیلم خارجی - کمدی",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/b8f6387f-82d8-479d-b352-805eec3e9e7a.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/2c868c12-6453-4c85-97a6-556e5c175f79.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/bc4ea9a8-4009-48a2-a340-03db6fa141e8.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/7d7bf138-f537-4890-ae70-0391d77c1ec2.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":2224,
+            "category": 13,
+            "title" : "سیاه چال ها و اژدهایان: افتخار در میان دزدان",
+            "title_en":"Dungeons & Dragons: Honor Among Thieves",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/3120857d-5322-444c-8fd0-76e7211c3543.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/51db118d-4645-49ab-82ba-951fa039cc53.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/727bb9e6-fc04-4d8d-ad18-313cb713c984.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/f7b18250-fa3e-4cfd-be2a-3d179d851e5f.png",
+            "trailer" : null,
+            "like":"۷۴",
+            "imdb" : 7.3,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۲",
+            "age_color":"yellow",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"John Francis Daley",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی انگلیسی",
+            "writer":{"writer_name" :"Scotty Landes" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/2c1480f7-aeee-439f-a931-87f33dfc2ffd.jpg"},
+            "producer":{"producer_name" :"Cale Boyter" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/a9f4487f-d4e8-481d-a1dd-11ee811d7a2a.jpg"},
+            "Actors":[
+                {"actor_name":"Chris Pine","actor_image_url":"https://static.namava.ir/Content/Upload/Images/4f900473-2856-495a-b49b-cd59fa6d7b39.jpg"},
+                {"actor_name":"Michelle Rodriguez","actor_image_url":"https://static.namava.ir/Content/Upload/Images/9de49a8f-8b9a-4c1b-a152-d2c33a2bfe3e.jpg"},
+                {"actor_name":"Regé-Jean Page","actor_image_url":"https://static.namava.ir/Content/Upload/Images/0f0c63da-dee8-4062-b4e0-c30d3e182df4.jpg"}
+            ],
+            "movie_time":"۱۲۰",
+            "description":"یک دزد به همراه گروهی از ماجراجویان عجیب و غریب سفری را برای پیدا کردن یک شی قدیمی آغاز می کنند. آنها در این سفر با خطرهای بسیاری مواجه می شوند و...",
+            "story":"فیلم سیاه چال ها و اژدهایان: افتخار در میان دزدان فیلمی اکشن، ماجراجویی کمدی و فانتزی محصول سال ۲۰۲۳ کشورهای آمریکا کانادا انگلستان ایسلند ایرلند و استرالیا به کارگردانی جان فرانسیس دالی و جاناتان گلداستاین است. نویسندگی فیلم سیاه چال ها و اژدهایان: افتخار در میان دزدان بر عهده جاناتان گلداستاین جان فرانسیس دالی و مایکل گیلیو بوده است. بازیگرانی چون کریس پاین میشل رودریگز رگی ژان پیج جاستیس اسمیت سوفیا لیلیس هیو گرانت کلوی کولمن و دیزی هد در فیلم سیاه چال ها و اژدهایان: افتخار در میان دزدان به ایفای نقش م یپردازند.",
+            "other_categories":"اکشن, مهیج, دوبله نماوا, فیلم خارجی - کمدی",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/6f5d77f7-3474-4666-9a32-918b63d4f198.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/73d46be4-829b-40d2-b472-a23764295770.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/58abac1a-34b9-4502-ba5e-e09d4d966e4c.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/6a25de76-3967-4783-87aa-d2d3fd81d835.jpg"
+            },
+            "comment_1":{
+                "user":"رضا عابدی",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":2225,
+            "category": 13,
+            "title" : "راز جنایت ۲",
+            "title_en":"Murder Mystery 2",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/74e7d9f7-4a83-4dad-9fc7-f65e40889b37.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/85149b21-d5f5-4a4c-98f5-13cb46a206d4.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/79ba9023-ef96-42ef-befc-d913c4d071a6.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/2ad33762-bf7e-493a-ae6b-a6b98013ce43.png",
+            "trailer" : null,
+            "like":"۸۱",
+            "imdb" : 5.7,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۲",
+            "age_color":"yellow",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Jeremy Garelick",
+            "lang_double" : "فارسی",
+            "lang_subtitle": "فارسی انگلیسی",
+            "writer":{"writer_name" :"James Vanderbilt" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/60096408-3dca-43f1-95d0-91b4ff370040.jpg"},
+            "producer":{"producer_name" :"Jennifer Aniston" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/bb5a8cc8-f243-44b6-91d1-2f57d1ff4c40.jpg"},
+            "Actors":[
+                {"actor_name":"Adam Sandler","actor_image_url":"https://static.namava.ir/Content/Upload/Images/3b4a6705-d1d8-4464-b8e4-c80b1310bdc5.jpg"},
+                {"actor_name":"Jennifer Aniston","actor_image_url":"https://static.namava.ir/Content/Upload/Images/bb5a8cc8-f243-44b6-91d1-2f57d1ff4c40.jpg"},
+                {"actor_name":"Mark Strong","actor_image_url":"https://static.namava.ir/Content/Upload/Images/90136dbf-2d98-4b40-99b6-d73cff66e48d.jpg"}
+            ],
+            "movie_time":"۱۴۳",
+            "description":"اکنون کارآگاهان خصوصی آدری و نیک آژانس خود را برای انجام تحقیقات درباره پرونده های جنایی راه اندازی کرده اند. زمانی که دوستشان در مراسم عروسی باشکوه خود ربوده می شود آنها درگیر اتفاقاتی می شوند که...",
+            "story":"فیلم راز جنایت ۲ فیلمی اکشن کمدی جنایی رازآلود و عاشقانه محصول سال ۲۰۲۳ کشور آمریکا به کارگردانی جرمی گرلیک است. نویسندگی فیلم راز جنایت ۲ توسط جیمز واندربیلت انجام شده است. بازیگرانی چون آدام سندلر جنیفر انیستون مارک استرانگ ملانی لوران عدیل اختر کوهو ورما انریکه آرسه و زورین ویلانووا در فیلم راز جنایت ۲ به ایفای نقش پرداخته اند.",
+            "other_categories":"اکشن, مهیج, دوبله نماوا, فیلم خارجی - کمدی",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/709a7bbe-8e0e-4b52-a38f-1cccf109bf19.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/09e656c4-ebc7-4359-b76b-3610627ca08d.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/57f12940-d5a7-4928-a671-ea64608c8d8d.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/ce8f9657-7b5d-4939-81ef-8861e265e0bb.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":3331,
+            "category" : 17, 
+            "title" : "جعبه پرنده: بارسلونا",
+            "title_en":"Bird Box Barcelona",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/2a232d0b-2ba4-4c6b-8569-a91e53fcb676.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/26b06b30-2938-4a50-9f40-c3efd37ac60b.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/101386b8-9b87-4498-bb98-7a3c64c0fa78.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/acfea6b4-feea-4da2-a4c4-30438fcb5e74.png",
+            "trailer" : "https://static.namava.ir/Content/Upload/Images/4b6c277d-b9a4-4edd-9d81-6d5c5820d871.mp4",
+            "like":"۸۱",
+            "imdb" : 6.2,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۵",
+            "age_color":"orange",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"John Francis Daley",
+            "lang_double" : "فارسی",
+            "lang_subtitle": "فارسی انگلیسی",
+            "writer":{"writer_name" :"Ben Zazove" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/2c1480f7-aeee-439f-a931-87f33dfc2ffd.jpg"},
+            "producer":{"producer_name" :"Cale Boyter" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/3b589720-4f34-46bd-abd4-91a9a9826ae7.jpg"},
+            "Actors":[
+                {"actor_name":"Georgina Campbell","actor_image_url":"https://static.namava.ir/Content/Upload/Images/da7bae3d-1f1d-46b6-982c-3f8797f9f116.jpg"},
+                {"actor_name":"Mario Casas","actor_image_url":"https://static.namava.ir/Content/Upload/Images/904962b0-420c-4e96-9c93-9478824a2a73.jpg"},
+                {"actor_name":"Michelle Jenner","actor_image_url":"https://static.namava.ir/Content/Upload/Images/a42d7df4-ce54-403b-8bc9-e75f4226f80a.jpg"}
+            ],
+            "movie_time":"۱۰۳",
+            "description":"موجودی مرموز مردم جهان را نابود می کند و هر کسی که این موجود را ببیند می میرد. در این میان سباستین و دخترش تلاش می کنند تا در این ویرانشهر خطرناک زنده بمانند و...",
+            "story":"فیلم جعبه پرنده: بارسلونا فیلمی ترسناک رازآلود علمی تخیلی و مهیج محصول سال ۲۰۲۳ کشور اسپانیا به نویسندگی و کارگردانی دیوید پاستور و الکس پاستور است. بازیگرانی چون جورجینا کمپبل ماریو کاساس دیگو کالوا میشل خنر لئوناردو اسباراگلیا نیلا شوبرت پاتریک کریادو و لولا دوئنیاس در فیلم جعبه پرنده: بارسلونا به ایفای نقش م یپردازند. ",
+            "other_categories":"اکشن و علمی تخیلی و ماجراجویی و فیلم خارجی",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/8f4f45ff-e5ce-4097-95c0-31ab7fdfb86c.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/91b90289-aab4-461a-a3f9-7977de0c186c.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/ae6bfa5f-f284-46ca-9264-309a993ae38e.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/c85c28c8-c799-4b7c-9581-897c596906df.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":3332,
+            "category" : 17, 
+            "title" : "فرانکنشتاین",
+            "title_en":"Mary Shelley's Frankenstein",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/b4c1f0f1-6816-4096-9d20-b3f098128a0a.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/7538855d-eb16-4a6e-8add-756f12cdb67f.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/1176f387-fd65-4550-94a0-f0992e67e0fd.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/b243c53c-d53b-41f4-b8ac-b61062f9899e.png",
+            "trailer" : null,
+            "like":"۹۱",
+            "imdb" : 7.2,
+            "year": "۲۰۱۰",
+            "year_number":2010,
+            "age" : "+۱۵",
+            "age_color":"orange",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Peter Atencio",
+            "lang_double" : "فارسی",
+            "lang_subtitle": "فارسی انگلیسی",
+            "writer":{"writer_name" :"Frank Darabont" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/d53437b8-8979-4ad0-b782-32d5a06a99ba.jpg"},
+            "producer":{"producer_name" :"Francis Ford Coppola" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/e246bd63-2bdc-4f70-bcf3-1bc80043353c.jpg"},
+            "Actors":[
+                {"actor_name":"Robert De Niro","actor_image_url":"https://static.namava.ir/Content/Upload/Images/16d0cc37-3481-444a-98f4-cec44b9f48ea.jpg"},
+                {"actor_name":"Kenneth Branagh","actor_image_url":"https://static.namava.ir/Content/Upload/Images/443dcac3-a910-45c2-8d64-97bf8ba244af.jpg"},
+                {"actor_name":"Helena Bonham Carter","actor_image_url":"https://static.namava.ir/Content/Upload/Images/5412e83c-1c1b-4ea7-a104-b955f6163b4d.jpg"}
+            ],
+            "movie_time":"۱۲۴",
+            "description":"زمانی که یک دانشمند باهوش به نام ویکتور فرانکنشتاین یک موجود عجیب و ترسناک می سازد و سپس سعی می کند آن را نابود کند موجود از دست او فرار می کند و برای انتقام از ویکتور نقشه ای می کشد تا...",
+            "story":"فیلم فرانکنشتاین فیلمی درام ترسناک عاشقانه و علمی تخیلی محصول سال ۱۹۹۴ کشورهای ژاپن آمریکا و انگلستان به کارگردانی کنت برانا است. نویسندگی فیلم فرانکنشتاین توسط استف لیدی و فرانک دارابونت انجام شده است. بازیگرانی چون رابرت دنیرو کنت برانا هلنا بونهام کارتر تام هولس آیدان کوئین ایان هولم ریچارد برایرز و جان کلیز در فیلم فرانکنشتاین به ایفای نقش پرداخته اند.",
+            "other_categories":"اکشن۰ترسناک-علمی تخیلی-فیلم خارجی- دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/bf4d4ff2-56d1-459d-976d-7648cfe70f17.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/54b66121-609e-4d8d-b49f-93d9cb31372a.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/bee06029-0284-43e3-b1eb-59687d98ce69.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/c853b928-1676-4148-95d4-e5822d597aa7.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":3333,
+            "category" : 17, 
+            "title" : "مگان",
+            "title_en":"M3gan",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/11094860-c964-43bf-a28d-3f6baed5da21.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/4364dc07-1bed-43d2-af25-fede0fc4ad61.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/6fc31224-2a40-44db-bb6d-602257a8ab2d.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/d0bc6c72-b0ac-40fc-876b-92da3c8cd2c6.png",
+            "trailer" : "https://static.namava.ir/Content/Upload/Images/1d10066f-69b9-4629-bda4-638c188befc6.mp4",
+            "like":"۸۱",
+            "imdb" : 7.8,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۸",
+            "age_color":"red",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Jeremy Garelick",
+            "lang_double" : "فارسی",
+            "lang_subtitle": "فارسی انگلیسی",
+            "writer":{"writer_name" :"Ben Zazove" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/4e854cd0-9d4f-490a-bef6-0392c197933a.jpg"},
+            "producer":{"producer_name" :"Larry Yang" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/a9f4487f-d4e8-481d-a1dd-11ee811d7a2a.jpg"},
+            "Actors":[
+                {"actor_name":"Allison Williams","actor_image_url":"https://static.namava.ir/Content/Upload/Images/9d70fd41-7f3b-4a66-abaa-4b49ca56ced9.jpg"},
+                {"actor_name":"Violet McGraw","actor_image_url":"https://static.namava.ir/Content/Upload/Images/a71c67f2-d240-4c0b-bbbb-cda36d269974.jpg"},
+                {"actor_name":"Amie Donald","actor_image_url":"https://static.namava.ir/Content/Upload/Images/2fd76986-f546-446f-9527-9d4919d576e3.jpg"}
+            ],
+            "movie_time":"۱۴۰",
+            "description":"جما یک مهندس رباتیک است که عروسکی شبیه به یک انسان واقعی به نام مگان طراحی م یکند تا به یکی از عزیزان خود که دختربچه ای نوجوان است کمک کند اما این تصمیم عواقب سنگینی به دنبال دارد که...",
+            "story":"فیلم مگان فیلمی ترسناک علمی تخیلی و مهیج محصول سال ۲۰۲۲ کشور آمریکا به کارگردانی جرارد جانستون است. نویسندگی فیلم مگان توسط آکیلا کوپر و جیمز وان انجام شده است. بازیگرانی چون الیسون ویلیامز وایولت مک گرا امی دونالد جنا دیویس برایان جردن آلوارز جن ون ایپس رانی چینگ و استفان گارنو در فیلم مگان به ایفای نقش پرداخته اند.",
+            "other_categories":"اکشن۰ترسناک-علمی تخیلی-فیلم خارجی- دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/b69de674-48cb-4fab-b256-38e9fbf46f17.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/209a4e20-80f5-474b-8000-a2c78843c50d.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/166ca08e-85f3-4210-8e76-5271dcaf901d.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/bcade8a3-cd6c-43d7-b709-f1659a1d1a54.jpg"
+            },
+            "comment_1":{
+                "user":"مهرداد پاشایی",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"مهدی تمیمی",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":3334,
+            "category" : 17, 
+            "title" : "آواتار",
+            "title_en":"Avatar",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/8be8a803-176b-4c65-bfa3-709a08574eea.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/70f86a90-850c-4a09-a858-f550f638eaaf.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/5f7a6f6f-c0ee-4081-a963-3963de037ca3.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/1d4d469a-d523-431a-bfe6-a71ac9f917f4.png",
+            "trailer" : null,
+            "like":"۹۱",
+            "imdb" : 6.7,
+            "year": "۲۰۲۲",
+            "year_number":2022,
+            "age" : "+۱۲",
+            "age_color":"yellow",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Ron Yuan",
+            "lang_double" : "فارسی",
+            "lang_subtitle": "فارسی انگلیسی",
+            "writer":{"writer_name" :"James Vanderbilt" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/5179625e-85db-455a-906b-24fee1af1946.jpg"},
+            "producer":{"producer_name" :"Tim Kwok" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/54943e6b-eee5-4841-be80-20236e710543.jpg"},
+            "Actors":[
+                {"actor_name":"Sam Worthington","actor_image_url":"https://static.namava.ir/Content/Upload/Images/aa53c7ae-6530-48de-b9d7-d9551ef7f0dd.jpg"},
+                {"actor_name":"Zoe Saldana","actor_image_url":"https://static.namava.ir/Content/Upload/Images/48dfda6d-346f-49f4-bc4a-145d7ab5f7be.jpg"},
+                {"actor_name":"Sigourney Weaver","actor_image_url":"https://static.namava.ir/Content/Upload/Images/5b6e59f8-f2d0-4feb-b9d2-395f76977513.jpg"}
+            ],
+            "movie_time":"۱۲۰",
+            "description":"یک افسر نیروی دریایی به نام جیک سالی برای انجام ماموریتی خاص به سیاره پاندورا فرستاده می شود اما زمانی که جیک با اهالی و بومیان آنجا ارتباط برقرار می کند تصمیم می گیرد برای محافظت از آنها و لغو عملیات مبارزه کند و...",
+            "story":"فیلم آواتار فیلمی اکشن ماجراجویی فانتزی و علمی تخیلی محصول سال ۲۰۰۹ کشور آمریکا به نویسندگی و کارگردانی جیمز کامرون است. بازیگرانی چون سم ورثینگتون زوئی سالدانا سیگورنی ویور، میشل رودریگز استیون لانگ جووانی ریبیسی ژول دیوید مور و سی سی اچ پاوندر در فیلم آواتار به ایفای نقش پرداخته اند.",
+            "other_categories":"اکشن-علمی تخیلی-فیلم خارجی- دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/9d8b1fda-ca80-454a-a055-dddecd2084d3.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/af3a1010-b6b5-48cd-8f7d-910709908ccf.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/4b7a1a39-7348-4b70-b611-66c4b98ec691.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/5747476f-0dd6-47cf-b06b-09bae8a2e6ac.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":3335,
+            "category" : 17, 
+            "title" : "چهار شگفت انگیز",
+            "title_en":"Fantastic Four",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/0630fb94-c5ab-435f-8fda-36b739f95fec.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/e8f845da-65ed-4296-bd3b-2e46615c719e.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/917387b6-3f83-44ab-a60f-fd8b48aa13c3.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/19564de0-1eb1-479d-bb3f-15699fd48678.png",
+            "trailer" : null,
+            "like":"۹۲",
+            "imdb" : 8.8,
+            "year": "۲۰۱۰",
+            "year_number":2010,
+            "age" : "+۱۲",
+            "age_color":"yellow",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Peter Atencio",
+            "lang_double" : "فارسی",
+            "lang_subtitle": "فارسی انگلیسی",
+            "writer":{"writer_name" :"Mark Frost" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/59c85346-d55b-4466-a131-65fd159ff651.jpg"},
+            "producer":{"producer_name" :"Ralph Winter" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/32a2b3c7-c933-4705-9ee6-24be92b2462d.jpg"},
+            "Actors":[
+                {"actor_name":"Ioan Gruffudd","actor_image_url":"https://static.namava.ir/Content/Upload/Images/171e5e2d-e27f-44d1-a340-c4eeba530a11.jpg"},
+                {"actor_name":"Chris Evans","actor_image_url":"https://static.namava.ir/Content/Upload/Images/7d9eb816-674f-4c33-bb9c-a1aefd63ba07.jpg"},
+                {"actor_name":"Jessica Alba","actor_image_url":"https://static.namava.ir/Content/Upload/Images/9afed589-694f-45a8-9945-594cdf5aec2b.jpg"}
+            ],
+            "movie_time":"۱۴۰",
+            "description":"گروهی از فضانوردان برای انجام یک ماموریت به فضا می روند اما به دلیل بروز یک مشکل قدرت های فوق العاده ای به دست می آورند و باید از آنها برای مقابله با دشمنی خطرناک استفاده کنند و...",
+            "story":"فیلم چهار شگفت انگیز فیلمی اکشن ماجراجویی فانتزی و علمی تخیلی محصول سال ۲۰۰۵ کشورهای آلمان و آمریکا به کارگردانی تیم استوری است. نویسندگی فیلم چهار شگفت انگیز توسط مارک فراست و مایکل فرانس انجام شده است. بازیگرانی چون یوان گریفید مایکل چکلیس کریس ایوانز جسیکا آلبا جولین مک مان همیش لینکلیتر کری واشینگتن و لوری هولدن در فیلم چهار شگفت انگیز به ایفای نقش پرداخته اند.",
+            "other_categories":"اکشن و علمی تخیلی و ماجراجویی و فیلم خارجی",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/4dd378ef-28cb-4729-89c1-03b6928c9f63.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/b216db8d-9d1e-4c95-98da-25f1d2f481d2.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/259dc513-9c88-4a89-9a8a-028bdcd81c62.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/99b67835-7591-4e62-bba2-e48123fa9352.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":4441,
+            "category": 14, 
+            "title" : "سیل",
+            "title_en":"The Flood",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/0dc7d594-84d8-41e8-acd7-afbb41f5f1e8.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/d735a3fb-2077-4455-9b2f-2da4173dba75.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/199c2dba-10be-4cfe-a905-c2df53c2e1ff.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/a733c948-f859-41cf-b72c-dfa3ec269f83.png",
+            "trailer" : null,
+            "like":"۸۸",
+            "imdb" : 5.4,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۸",
+            "age_color":"red",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Steven Caple Jr.",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی",
+            "writer":{"writer_name" :"Frank Darabont" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/2f4cb6df-cbb3-4769-b559-50445b25b16f.jpg"},
+            "producer":{"producer_name" :"Cale Boyter" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/a9f4487f-d4e8-481d-a1dd-11ee811d7a2a.jpg"},
+            "Actors":[
+                {"actor_name":"Casper Van Dien","actor_image_url":"https://static.namava.ir/Content/Upload/Images/b03eb489-195a-4ac9-a498-95d8759b0adb.jpg"},
+                {"actor_name":"Nicky Whelan","actor_image_url":"https://static.namava.ir/Content/Upload/Images/3e0e54bb-7fe6-4336-af94-fa178aa6fe32.jpg"},
+                {"actor_name":"Louis Mandylor","actor_image_url":"https://static.namava.ir/Content/Upload/Images/1c64a4c7-9e99-4322-8608-d7ac9aef0d28.jpg"}
+            ],
+            "movie_time":"۱۰۸",
+            "description":"در حین طوفانی شدید در لوئیزیانا گروهی از افراد نقشه ای جسورانه می کشند تا از زندان فرار کنند اما با تمساح هایی خطرناک و بزرگ روبرو می شوند و...",
+            "story":"فیلم سیل فیلمی اکشن ترسناک و مهیج محصول سال ۲۰۲۳ کشور آمریکا به کارگردانی برندون اسلاگل است. نویسندگی فیلم سیل توسط چد لا و جاش ریجوی انجام شده است. بازیگرانی چون کاسپر ون دین نیکی ولان لوئیس ماندیلور رندی وین دوانی پین راین فرانسیس کیم دلونگی و مایک فرگوسن در فیلم سیل به ایفای نقش پرداخته اند.",
+            "other_categories":"اکشن۰ترسناک-علمی تخیلی-فیلم خارجی- دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/0d81a7f9-a707-4852-8fb9-d49063c995c9.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/e10c1535-60c9-4389-895c-feb62a8b74da.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/294497b7-9c90-4f29-b669-6ae0780dd0ce.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/5a41a75e-9d32-4aa3-8cd4-396bfe5e9a2a.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":4442,
+            "category": 14,
+            "title": "دیو سیاه",
+            "title_en":"The Black Demon",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/2d13c8b0-af18-407c-a3b5-30fe6ae057b3.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/bdd8994d-bd03-4e49-9806-d999615cc93c.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/1875b6f8-2577-499f-9f00-3d1e9d56a31a.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/6c75e324-2c71-4ca4-b662-ee8544b6f707.png",
+            "trailer" : null,
+            "like":"۸۱",
+            "imdb" : 3.7,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۵",
+            "age_color":"orange",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Sam Hargrave",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی",
+            "writer":{"writer_name" :"James Vanderbilt" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/4e854cd0-9d4f-490a-bef6-0392c197933a.jpg"},
+            "producer":{"producer_name" :"Larry Yang" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/54943e6b-eee5-4841-be80-20236e710543.jpg"},
+            "Actors":[
+                {"actor_name":"Josh Lucas","actor_image_url":"https://static.namava.ir/Content/Upload/Images/55ffc838-290c-4d2c-a45e-a05c282e6b85.jpg"},
+                {"actor_name":"Fernanda Urrejola","actor_image_url":"https://static.namava.ir/Content/Upload/Images/73f6fb81-d8a7-4418-919e-5e45757303c7.jpg"},
+                {"actor_name":"Venus Ariel","actor_image_url":"https://static.namava.ir/Content/Upload/Images/5abd2bbd-e2b4-47a4-b8a8-76788e11313c.jpg"}
+            ],
+            "movie_time":"۱۲۴",
+            "description":"مردی به همراه خانواده اش تصمیم می گیرد برای گذراندن تعطیلات راهی سفر به یک شهر ساحلی شود اما زمانی که با یک کوسه غول پیکر و خطرناک روبرو می شوند باید برای نجات جان خود همه تلاششان را بکنند و...",
+            "story":"فیلم دیو سیاه فیلمی ترسناک علمی تخیلی و مهیج محصول سال ۲۰۲۳ کشورهای مکزیک آمریکا و جمهوری دومینیکن به کارگردانی آدریان گرونبرگ است. نویسندگی فیلم دیو سیاه توسط کارلوس سیسکو و بویس اسکورا انجام شده است. بازیگرانی چون جاش لوکاس فرناندا اورخولا ونوس آریل خولیو سزار سد ییو هکتور خیمنز ادگار فلورس خورخه ای. خیمنز و رائول مندز در فیلم دیو سیاه به ایفای نقش پرداخته اند.",
+            "other_categories":"اکشن۰ترسناک-علمی تخیلی-فیلم خارجی- دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/333326d7-6a13-4a35-a547-c4655c9e10b3.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/0271d565-62b3-4c9a-b7e1-084fe706a14f.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/7a3a8ee9-3ee0-4d15-86b4-db3fbce9959f.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/e142b8bf-efb6-4061-9393-3fe9d6aba3e5.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":4443,
+            "category": 14, 
+            "title" : "سجین ۵",
+            "title_en":"Siccin 5",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/3fb996fe-84d0-403d-bc28-440a6f7609c5.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/4417793e-6ef9-4235-a5e7-00b0924d47da.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/d2c8ee2b-1a71-480d-9231-42da7bf6c173.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/ebe4d88d-c715-4e9a-968a-7d3319485503.png",
+            "trailer" : null,
+            "like":"۹۳",
+            "imdb" : 7.4,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۸",
+            "age_color":"red",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Peter Atencio",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی",
+            "writer":{"writer_name" :"Frank Darabont" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/4e854cd0-9d4f-490a-bef6-0392c197933a.jpg"},
+            "producer":{"producer_name" :"Alper Mestçi" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/5a93840c-fef0-4aba-adac-aa5acc0afc23.jpg"},
+            "Actors":[
+                {"actor_name":"Merve Ates","actor_image_url":"https://static.namava.ir/Content/Upload/Images/93304c5a-728b-439a-b17b-d0f21cf41a54.jpg"},
+                {"actor_name":"Ece Baykal","actor_image_url":"https://static.namava.ir/Content/Upload/Images/24fcc6fb-f332-49b3-bb7b-6364afcb4872.jpg"},
+                {"actor_name":"Pinar Gülkapan","actor_image_url":"https://static.namava.ir/Content/Upload/Images/7de563fc-802d-4a16-a51b-c8785ddf13f8.jpg"}
+            ],
+            "movie_time":"۱۲۰",
+            "description":"دختری به نام هاله با ظاهر متفاوت و رفتار عجیبش توجه اطرافیان را به خود جلب می کند. او به همراه مادر مادربزرگ و خاله اش در خانه ای قدیمی و ترسناک زندگی می کند. پدر هاله پیش از تولد او ناپدید شده و دیگر هرگز اثری از او یافت نشده است و...",
+            "story":"فیلم سجین ۵ فیلمی ترسناک محصول سال ۲۰۱۸ کشور ترکیه به کارگردانی و نویسندگی آلپر مسچی است. بازیگرانی چون مروه آتش سلیم آیدین اس بایکال آسلین سو دیوریک پینار گلکاپان اوزگور هاجیر اجه کوراوغلو و متین ییلدیریم در فیلم سجین ۵ به ایفای نقش پرداخته اند.",
+            "other_categories":"اکشن۰ترسناک-علمی تخیلی-فیلم خارجی- دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/c81cf5c0-bdd1-4e96-8758-181660b37641.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/2676cbd3-7e75-4f51-a4bf-edd858f7623e.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/896ffa21-0f24-4d5b-83ac-2a7269bb7585.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/ea2158c2-8e78-471e-85ec-6c20f9fff65a.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":4444,
+            "category": 14, 
+            "title" : "سحر",
+            "title_en":"Hex",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/6361fcdc-87b2-49e8-bb75-da674cfd3eb2.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/c4b53098-218d-4d83-ba03-dab29f86bde1.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/5ed64c40-127b-484a-b484-1975aff4edf8.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/64c77d42-d9b6-40a6-9645-a8e3ae48e6c1.png",
+            "trailer" : null,
+            "like":"۸۰",
+            "imdb" : 3.1,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۵",
+            "age_color":"orange",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Larry Yang",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی",
+            "writer":{"writer_name" :"Ben Zazove" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/5179625e-85db-455a-906b-24fee1af1946.jpg"},
+            "producer":{"producer_name" :"Loyd Bateman" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/2877592c-ee58-4f2c-9422-2cfe92977e4c.jpg?anchor=middlecenter&crop=auto&scale=both&w=140&h=140"},
+            "Actors":[
+                {"actor_name":"Kayla Adams","actor_image_url":"https://static.namava.ir/Content/Upload/Images/aa69a4fc-908a-4e0f-9437-c7d0a39f8d68.jpg"},
+                {"actor_name":"Matthew Holcomb","actor_image_url":"https://static.namava.ir/Content/Upload/Images/afef5ba8-382e-48dc-b649-6788deda1017.jpg"},
+                {"actor_name":"Bryan Roberts","actor_image_url":"https://static.namava.ir/Content/Upload/Images/939ce29c-7d85-485b-be72-bf87694215ab.jpg"}
+            ],
+            "movie_time":"۱۲۰",
+            "description":"گروهی از چتربازان تصمیم می گیرند به طور دسته جمعی برای یک پرش آماده شوند اما یکی از آنها به طور اسرارآمیزی ناپدید می شود. آنها پس از مدتی با اتفاقات ترسناکی روبرو می شوند و...",
+            "story":"فیلم سحر فیلمی اکشن ماجراجویی ترسناک و مهیج  محصول سال ۲۰۲۲ کشور آمریکا به کارگردانی کریس جانستون و اندی مالچیودی است. نویسندگی فیلم سحر توسط هانس رودیونوف انجام شده است. بازیگرانی چون کیلا آدامز متیو هولکومب براین رابرتس اریک آلپرین کلویی برمن برد ورچ دوم شانو موزینگو و راب مارس در فیلم سحر به ایفای نقش پرداخته اند.",
+            "other_categories":"اکشن۰ترسناک-علمی تخیلی-فیلم خارجی- دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/ea3920f5-3a35-4771-96bd-d1b31034ec88.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/529e8fc8-fba6-4b48-bca7-6b732d85fe21.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/61629f4a-583f-42de-8125-f289c2705446.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/8be0ee62-f1f3-4972-844d-7d90a3fd694f.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":4445,
+            "category": 14, 
+            "title" : "احضار شده",
+            "title_en":"The Summoned",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/26277c9c-0085-42c2-a1d3-3aa292ecf346.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/79a663c3-8869-49fe-9fe3-fbe947773a0a.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/e087affb-2919-439f-b696-e5d598b28634.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/cb23270f-e5d7-4853-a30a-37f5afc3386a.png",
+            "trailer" : null,
+            "like":"۷۹",
+            "imdb" : 4.3,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۵",
+            "age_color":"orange",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"David F. Sandberg",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی",
+            "writer":{"writer_name" :"James Vanderbilt" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/60096408-3dca-43f1-95d0-91b4ff370040.jpg"},
+            "producer":{"producer_name" :"Ralph Winter" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/a9f4487f-d4e8-481d-a1dd-11ee811d7a2a.jpg"},
+            "Actors":[
+                {"actor_name":"J. Quinton Johnson","actor_image_url":"https://static.namava.ir/Content/Upload/Images/fccb281d-b8eb-45f6-987a-0541081872e3.jpg"},
+                {"actor_name":"Emma Fitzpatrick","actor_image_url":"https://static.namava.ir/Content/Upload/Images/5fd9c1a4-723b-4d9b-a765-d8f00a80b77e.jpg"},
+                {"actor_name":"Angela Gulner","actor_image_url":"https://static.namava.ir/Content/Upload/Images/5d7e13c0-2410-47ee-83a5-0a3dfe8e3657.jpg"}
+            ],
+            "movie_time":"۱۲۴",
+            "description":"یک زوج برای سپری کردن تعطیلات به استراحتگاهی دور افتاده در دل طبیعت می روند اما در آنجا با اتفاقاتی فراطبیعی و هولناک روبرو می شوند و...",
+            "story":"فیلم احضار شده فیلمی ترسناک و مهیج محصول سال ۲۰۲۲ کشور آمریکا به کارگردانی مارک میر است. نویسندگی فیلم احضار شده بر عهده یوری بارانفسکی بوده است. بازیگرانی چون جی کویینتون جانسون اما فیتزپاتریک آنجلا گولنر سالوادور چاکون فردریک استوارت مارک میر و گری ریچلینگ در فیلم احضار شده به ایفای نقش م یپردازند.",
+            "other_categories":"ترسناک-علمی تخیلی-فیلم خارجی- دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/e5cff936-c2da-4b9d-b5ef-cfed176b9fb5.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/05d31e33-4097-4b5e-af98-59e4d0f6d00f.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/51d345a1-d48d-43dc-afcd-8c018bcbe9a7.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/f5de298a-c5ca-4849-9647-7412b8cee283.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":5551,
+            "category": 16,
+            "title" : "فوریا",
+            "title_en":"Furia",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/7b35a669-99b3-442e-9fef-65c11cbedf5c.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/f5f67626-5a2c-45ba-9693-ec34ad09df73.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/eb41ec32-1f7f-4ae2-8e7c-ccb821235a7e.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/ed3861a1-5e8f-409a-9177-1e6cb693da6b.png",
+            "trailer" : null,
+            "like":"۸۰",
+            "imdb" : 5.3,
+            "year": "۲۰۲۲",
+            "year_number":2022,
+            "age" : "+۱۵",
+            "age_color":"orange",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Ron Yuan",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی",
+            "writer":{"writer_name" :"James Vanderbilt" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/2f4cb6df-cbb3-4769-b559-50445b25b16f.jpg"},
+            "producer":{"producer_name" :"Francis Ford Coppola" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/3b589720-4f34-46bd-abd4-91a9a9826ae7.jpg"},
+            "Actors":[
+                {"actor_name":"Ine Marie Wilmann","actor_image_url":"https://static.namava.ir/Content/Upload/Images/380ba973-b027-4e52-9302-62c94ffa984c.jpg"},
+                {"actor_name":"Nina Kunzendorf","actor_image_url":"https://static.namava.ir/Content/Upload/Images/16bc3e57-9e41-4afd-9a2f-63d648db0493.jpg"},
+                {"actor_name":"Pål Sverre Hagen","actor_image_url":"https://static.namava.ir/Content/Upload/Images/fe7a697c-679e-4106-877b-cb1134b3e004.jpg"}
+            ],
+            "movie_time":"۱۲۰",
+            "description":"داستان یک افسر پلیس به نام آسگیر را روایت می کند که می خواهد گذشته خود را به دست فراموشی بسپارد. او هویت خود را تغییر می دهد و به همراه دخترش به شهری کوچک واقع در ناحیه غربی نروژ نقل مکان می کند و...",
+            "story":"سریال فوریا سریالی جنایی درام و مهیج محصول سال ۲۰۲۱ کشور نروژ است. نویسندگی سریال فوریا بر عهده نیکولاج فروبنیس بوده است. بازیگرانی چون این ماری ویلمان نینا کانزندورف پال سوره هاگن پربن هودنلند سیسیلی ای موسلی هالوارد هولمن اولریش نوتن و یوهان فون بولو در سریال فوریا به ایفای نقش پرداخته اند.",
+            "other_categories":"درام-خانوادگی-فیلم حارجی -دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/56826018-da70-4f48-a97b-42deae81eac1.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/c6916580-ae1c-454e-9f44-8a92af021886.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/d40181d7-ccdf-43d0-bde5-94713594cf81.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/aa7c0df0-b498-4b2b-96bb-a1c112232a4d.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":5552,
+            "category": 16,
+            "title" : "فاجعه زیبا",
+            "title_en":"Beautiful Disaster",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/99c291de-33c7-4a98-8e8a-a892f9dcd0e1.JPG",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/b6978f6b-17c3-4cbf-a43e-31da7d49d65e.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/0305c659-69c1-4591-a5c4-0aa401bd8884.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/d482e83e-7e46-4743-889c-d3092c9cc698.png",
+            "trailer" : null,
+            "like":"۸۱",
+            "imdb" : 5.3,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۲",
+            "age_color":"yellow",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"John Francis Daley",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی",
+            "writer":{"writer_name" :"Mark Frost" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/79d6b1b1-b9e4-4ad9-8918-7fdffa846f22.jpg"},
+            "producer":{"producer_name" :"Tim Kwok" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/5a93840c-fef0-4aba-adac-aa5acc0afc23.jpg"},
+            "Actors":[
+                {"actor_name":"J. Quinton Johnson","actor_image_url":"https://static.namava.ir/Content/Upload/Images/fccb281d-b8eb-45f6-987a-0541081872e3.jpg"},
+                {"actor_name":"Emma Fitzpatrick","actor_image_url":"https://static.namava.ir/Content/Upload/Images/5fd9c1a4-723b-4d9b-a765-d8f00a80b77e.jpg"},
+                {"actor_name":"Angela Gulner","actor_image_url":"https://static.namava.ir/Content/Upload/Images/5d7e13c0-2410-47ee-83a5-0a3dfe8e3657.jpg"}
+            ],
+            "movie_time":"۱۲۴",
+            "description":"ابی دختری جوان و دانشجوی سال اول دانشگاه است که سعی می کند اتفاقات وحشتناکی را که در گذشته رخ داده فراموش کند اما پس از آشنایی با یکی از هم کلاس یهایش مسیر زندگ یاش عوض می شود و...",
+            "story":"فیلم فاجعه زیبا فیلمی درام و عاشقانه محصول سال ۲۰۲۳ کشور آمریکا به کارگردانی راجر کامبل است. نویسندگی فیلم فاجعه زیبا توسط راجر کامبل و جیمی مک گوری انجام شده است. بازیگرانی چون دیلن اسپراوس ویرجینیا گاردنر آستین نورث ساموئل لارسن برایان آستین گرین نیل بیشاپ لایب بارر و آتم ریسر در فیلم فاجعه زیبا به ایفای نقش پرداخته اند.",
+            "other_categories":"درام-خانوادگی-فیلم حارجی -دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/bab01c02-d138-4976-89cf-c25d11b13c88.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/91db1506-c3ee-4208-ace8-42f4164c1a81.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/80c90df1-9a35-4b2c-8857-b6202a5ccbee.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/e2cbc90d-20fa-427d-9bed-0bca566fbcc6.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":5553,
+            "category": 16,
+            "title" : "عشق کهکشانی",
+            "title_en":"Love Like the Galaxy",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/dba6a4ff-d564-4dcc-bac7-a2f07d9cc8bc.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/55a7ac11-cb30-47ae-8b6a-124180f8839c.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/9b64beaa-3853-4ff2-a02e-9fbbe3865158.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/95d72b96-68c9-4851-8675-52f4b24f572f.png",
+            "trailer" : null,
+            "like":"۸۶",
+            "imdb" : 6.4,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۲",
+            "age_color":"yellow",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Peter Atencio",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی",
+            "writer":{"writer_name" :"Ben Zazove" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/2c1480f7-aeee-439f-a931-87f33dfc2ffd.jpg"},
+            "producer":{"producer_name" :"Cale Boyter" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/3b589720-4f34-46bd-abd4-91a9a9826ae7.jpg"},
+            "Actors":[
+                {"actor_name":"Lei Wu","actor_image_url":"https://static.namava.ir/Content/Upload/Images/5a75c39b-a8b4-4f3b-aabd-5de16c69e0b5.jpg"},
+                {"actor_name":"Zhao Lusi","actor_image_url":"https://static.namava.ir/Content/Upload/Images/a942da45-6187-499d-b730-8f2aa4e2ca76.jpg"},
+                {"actor_name":"Jiao Xu","actor_image_url":"https://static.namava.ir/Content/Upload/Images/4ec66279-088d-4f12-838b-6387e19cf71b.jpg"}
+            ],
+            "movie_time":"۱۲۵",
+            "description":"چنگ شائوشانگ دختر جوانی است که پدر و مادرش در کودکی او را ترک کرده و به جنگ رفته اند. او مجبور شده برای بقا به انسان سرسختی تبدیل شود که هیچ دوستی ندارد و...",
+            "story":"سریال عشق کهکشانی سریالی درام تاریخی رازآلود و عاشقانه محصول سال ۲۰۲۲ کشور چین است. بازیگرانی چون لی وو ژائو لوسی جیائو شو تائو گو تیان یانگ ژانگ لی زنگ و جیان فنگ بائو در سریال عشق کهکشانی به ایفای نقش م یپردازند.",
+            "other_categories":"درام-خانوادگی-فیلم حارجی -دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/be2cfde6-7808-43e8-830a-621a3c623184.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/f65f806e-ae22-424a-adb0-8aaa250aacec.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/a50be2e7-a2b6-4656-9e2d-056f2e0a8016.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/5a6687bf-a5cc-49e7-af3c-408469463265.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":5554,
+            "category": 16,
+            "title" : "بل و سباستین: نسل جدید",
+            "title_en":"Belle et Sébastien: Nouvelle génération",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/4c8ea03c-9ad4-4195-9297-daaed99628ab.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/cd17078c-56a3-40d2-ac52-29a1ac3f72c3.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/5e867a02-fe62-4b2f-9202-85fd610e494c.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/191993e7-2f1a-4ef0-a3fb-bbddf9131d9d.png",
+            "trailer" : null,
+            "like":"۸۶",
+            "imdb" : 7.3,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۲",
+            "age_color":"yellow",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Jeremy Garelick",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی",
+            "writer":{"writer_name" :"Mark Frost" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/53881bbc-b3a2-4f58-99a3-f61cc79e07f8.jpg"},
+            "producer":{"producer_name" :"Ralph Winter" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/56570ae7-0ea4-4fae-8c29-d6fef5a911f4.jpg"},
+            "Actors":[
+                {"actor_name":"Aurélien Recoing","actor_image_url":"https://static.namava.ir/Content/Upload/Images/d355bd47-2ee7-4a93-ba11-0c491d814d38.jpg"},
+                {"actor_name":"Lou Lambrecht","actor_image_url":"https://static.namava.ir/Content/Upload/Images/55b2c60d-971f-49b3-9b1b-6de8947eec32.jpg"},
+                {"actor_name":"Pierre Coré","actor_image_url":"https://static.namava.ir/Content/Upload/Images/4b54a8d0-70a5-4ac3-a6bd-fbdb3612f4ce.jpg?anchor=middlecenter&crop=auto&scale=both&w=140&h=140"}
+            ],
+            "movie_time":"۱۲۵",
+            "description":"سباسستین پسری نوجوان است که بر خلاف میلش کل تابستان را با مادربزرگش می گذراند و در انجام کارها به او کمک می کند. او به زودی با یک سگ غول پیکر و تنها روبرو می شود و...",
+            "story":"فیلم بل و سباستین: نسل جدید فیلمی اکشن ماجراجویی درام و خانوادگی محصول سال ۲۰۲۲ کشور فرانسه به کارگردانی پیر کوره است. نویسندگی فیلم بل و سباستین: نسل جدید توسط سسیل اوبری الکساندر کوفری و پیر کوره انجام شده است. بازیگرانی چون رابینسون منسا روانه میشل لاروک آلیس دیوید کارولین آنگلاد سیروس شهیدی اورلیان رکوان لو لامبرخت و نوئا فور دووال در فیلم بل و سباستین: نسل جدید به ایفای نقش پرداخته اند.",
+            "other_categories":"درام-خانوادگی-فیلم حارجی -دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/29334dda-67cd-4ebb-a0ee-373428d73256.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/23668dd5-ca77-41cf-8142-8d5302276284.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/7e31ab21-e8e9-4b01-a134-d6e3450c3260.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/5ec5aead-637a-49bf-bdc0-ee50ab59c892.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        },
+        {
+            "id":5555,
+            "category": 16,
+            "title" : "سگ های جهنمی",
+            "title_en":"Hell Dogs",
+            "image_mobile_url" : "https://static.namava.ir/Content/Upload/Images/61e9f652-8c1d-4ede-b426-6c2c5ae045e1.jpg",
+            "image_url":"https://static.namava.ir/Content/Upload/Images/dbc01ed3-dd75-4ac8-a472-830bc7732950.jpg",
+            "image_page_url":"https://static.namava.ir/Content/Upload/Images/ba46605d-f91f-4c52-9519-3abd1b5e151f.jpg",
+            "logo_url":"https://static.namava.ir/Content/Upload/Images/67b2bf81-7b42-43d6-aa76-6c33e809e809.png",
+            "trailer" : null,
+            "like":"۸۸",
+            "imdb" : 6.1,
+            "year": "۲۰۲۳",
+            "year_number":2023,
+            "age" : "+۱۵",
+            "age_color":"orange",
+            "is_dubbing" :true,
+            "is_Sub": true,
+            "director":"Larry Yang",
+            "lang_double" : "فارسی انگلیسی",
+            "lang_subtitle": "فارسی",
+            "writer":{"writer_name" :"Masato Harada" , "image_writer_url":"https://static.namava.ir/Content/Upload/Images/bd3a48c1-f047-4b7e-8ae2-db3445c34187.jpg"},
+            "producer":{"producer_name" :"Hiroyasu Nagata" , "image_producer_url":"https://static.namava.ir/Content/Upload/Images/83e791eb-42f1-4c9c-9bef-e0d29d9edc26.jpg"},
+            "Actors":[
+                {"actor_name":"Jun'ichi Okada","actor_image_url":"https://static.namava.ir/Content/Upload/Images/e9e113c5-ac75-4d8f-b33f-ca317eb3eb47.jpg"},
+                {"actor_name":"Kentarô Sakaguchi","actor_image_url":"https://static.namava.ir/Content/Upload/Images/3dc6b421-78ca-44ef-8900-0754f560ecac.jpg"},
+                {"actor_name":"Mayu Matsuoka","actor_image_url":"https://static.namava.ir/Content/Upload/Images/0b02f714-a7bd-4e07-bdc3-3f396db7f5a4.jpg"}
+            ],
+            "movie_time":"۱۲۵",
+            "description":"یک افسر پلیس به نام شوگو کانتاکا که پس از به قتل رسیدن یکی از عزیزانش با آسیب های روحی دست و پنجه نرم می کند در پوشش یکی از اعضای باند تبهکار یاکوزا عازم ماموریتی می شود که...",
+            "story":"فیلم سگ های جهنمی فیلمی اکشن جنایی و درام محصول سال ۲۰۲۲ کشور ژاپن به کارگردانی ماساتو هارادا است. بازیگرانی چون جون ایچی اوکادا کنتارو ساکاگوچی مایو ماتسوکا میاوی کازوکی کیتامورا شینوبو اوتاکه ساتوشی کانادا و مای کایریو در فیلم سگ های جهنمی به ایفای نقش پرداخته اند.",
+            "other_categories":"درام-خانوادگی-فیلم حارجی -دوبله نماوا",
+            "other_images":{
+                "other_image_url_1" :"https://static.namava.ir/Content/Upload/Images/25271960-194c-4c43-87b1-46190a5cc14c.jpg",
+                "other_image_url_2" :"https://static.namava.ir/Content/Upload/Images/54104832-9ea6-4b5e-b339-d863d3855a1e.jpg",
+                "other_image_url_3" :"https://static.namava.ir/Content/Upload/Images/7ea4600c-fd63-4f31-ae68-355170f91fd1.jpg",
+                "other_image_url_4" :"https://static.namava.ir/Content/Upload/Images/0cb2ebc9-9248-40a1-a0aa-6eb23e02b38f.jpg"
+            },
+            "comment_1":{
+                "user":"تارا",
+                "date":" سه شنبه ۲۳ تیر ۱۴۰۲",
+                "comment":"خیلی فیلم خوبی بود",
+                "like":2,
+                "dislike":1
+            },
+            "comment_2":{
+                "user":"سام",
+                "date":" سه شنبه ۲۲ تیر ۱۴۰۲",
+                "comment":"فیلم عااااااااااااااااااااااااااالی بود",
+                "like":2,
+                "dislike":1
+            }
+        }
+    ]
+}
